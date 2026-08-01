@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T18:49:01",
+  "last_updated": "2026-08-01T18:49:20",
   "html": {
     "https://web.archive.org/web/20240827145101if_/https://twitter.com/Isunia177991/status/1828445119093317721": {
       "status": "done",
@@ -1174,7 +1174,7 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/1763577562008334336/QtE7Csdp_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20240825073728_twitter_com_Isunia177991_status_1827611233383805022.json",
         "20240827144104_twitter_com_Isunia177991_status_1828442615001534720.json",
@@ -1185,7 +1185,7 @@
         "20240929160552_twitter_com_Isunia177991_status_1840422755516465176.json",
         "20240929160559_twitter_com_Isunia177991_status_1840422784662688238.json"
       ],
-      "last_updated": "2026-08-01T17:09:49",
+      "last_updated": "2026-08-01T18:49:17",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240929160559if_/https://pbs.twimg.com/profile_images/1763577562008334336/QtE7Csdp_normal.jpg",
       "miss_count": 1
     },
@@ -1202,18 +1202,18 @@
         "20240827144104_twitter_com_Isunia177991_status_1828442615001534720.json",
         "20240828144034_twitter_com_Isunia177991_status_1828804877201674323.json"
       ],
-      "last_updated": "2026-08-01T17:09:40",
+      "last_updated": "2026-08-01T18:49:20",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1789520103358554113/ZbIpKR9j_normal.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20240827145033_twitter_com_Isunia177991_status_1828445000449073170.json"
       ],
-      "last_updated": "2026-08-01T17:09:45",
+      "last_updated": "2026-08-01T18:49:20",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240827145033if_/https://pbs.twimg.com/profile_images/1789520103358554113/ZbIpKR9j_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1799395703963500544/NDuvDnL4_normal.jpg": {
       "status": "done",
@@ -1238,7 +1238,7 @@
       "last_updated": "2026-08-01T17:09:40"
     },
     "https://pbs.twimg.com/profile_images/2023301314835521536/3ZZLX5YM_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260503060030_twitter_com_Isunia177991_status_2050817758154395961.json",
         "20260718084836_twitter_com_Isunia177991_status_2078401541502075286.json",
@@ -1247,7 +1247,7 @@
         "20260719112434_twitter_com_Isunia177991_status_2078803178712440946.json",
         "20260720043820_twitter_com_Isunia177991_status_2079063332607377734.json"
       ],
-      "last_updated": "2026-08-01T17:09:43",
+      "last_updated": "2026-08-01T18:49:20",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260720043820if_/https://pbs.twimg.com/profile_images/2023301314835521536/3ZZLX5YM_normal.jpg",
       "miss_count": 1
     },
@@ -1747,7 +1747,7 @@
       "last_updated": "2026-08-01T17:09:49"
     },
     "20240827144104_twitter_com_Isunia177991_status_1828442615001534720.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1756,11 +1756,11 @@
           "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
         ]
       },
-      "last_updated": "2026-08-01T18:47:41",
+      "last_updated": "2026-08-01T18:49:17",
       "miss_count": 2
     },
     "20240827145033_twitter_com_Isunia177991_status_1828445000449073170.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GV12V6ua4AA2CWm.jpg"
@@ -1771,7 +1771,7 @@
           "https://pbs.twimg.com/profile_images/1789520103358554113/ZbIpKR9j_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T18:47:41",
+      "last_updated": "2026-08-01T18:49:17",
       "miss_count": 2
     },
     "20240827145101_twitter_com_Isunia177991_status_1828445119093317721.json": {
@@ -1787,7 +1787,7 @@
       "last_updated": "2026-08-01T17:09:49"
     },
     "20240828144034_twitter_com_Isunia177991_status_1828804877201674323.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GWE4NwNbkAIb7Fr.jpg"
@@ -1798,7 +1798,7 @@
           "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
         ]
       },
-      "last_updated": "2026-08-01T18:47:41",
+      "last_updated": "2026-08-01T18:49:17",
       "miss_count": 2
     },
     "20240929160354_twitter_com_Isunia177991_status_1840422257694490783.json": {
