@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T18:47:31",
+  "last_updated": "2026-08-01T18:47:41",
   "html": {
     "https://web.archive.org/web/20240827145101if_/https://twitter.com/Isunia177991/status/1828445119093317721": {
       "status": "done",
@@ -1756,8 +1756,8 @@
           "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
         ]
       },
-      "last_updated": "2026-08-01T18:47:27",
-      "miss_count": 1
+      "last_updated": "2026-08-01T18:47:41",
+      "miss_count": 2
     },
     "20240827145033_twitter_com_Isunia177991_status_1828445000449073170.json": {
       "status": "failed_all",
@@ -1771,8 +1771,8 @@
           "https://pbs.twimg.com/profile_images/1789520103358554113/ZbIpKR9j_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T18:47:31",
-      "miss_count": 1
+      "last_updated": "2026-08-01T18:47:41",
+      "miss_count": 2
     },
     "20240827145101_twitter_com_Isunia177991_status_1828445119093317721.json": {
       "status": "done",
@@ -1798,8 +1798,8 @@
           "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
         ]
       },
-      "last_updated": "2026-08-01T18:47:31",
-      "miss_count": 1
+      "last_updated": "2026-08-01T18:47:41",
+      "miss_count": 2
     },
     "20240929160354_twitter_com_Isunia177991_status_1840422257694490783.json": {
       "status": "done",
