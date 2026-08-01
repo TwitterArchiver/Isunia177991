@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "1828404047348658657",
+    "created_at": "2024-08-27T14:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T15:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828442615001534720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828326283207479296",
+          "start": 0,
+          "username": "nuoyafz827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828442615001534720",
+    "in_reply_to_user_id": "1828326283207479296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828404047348658657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuoyafz827 女神继续曝啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "1828404047348658657",
+        "created_at": "2024-08-27T14:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T15:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828442615001534720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828326283207479296",
+              "start": 0,
+              "username": "nuoyafz827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828442615001534720",
+        "in_reply_to_user_id": "1828326283207479296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828404047348658657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuoyafz827 女神继续曝啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828404033159335936"
+          ]
+        },
+        "author_id": "1828326283207479296",
+        "conversation_id": "1828404047348658657",
+        "created_at": "2024-08-27T12:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T13:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828404047348658657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zkndyd0l6",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nuoyafz827/status/1828404047348658657/video/1",
+              "media_key": "7_1828404033159335936",
+              "start": 15,
+              "url": "https://t.co/2ZKNDyd0L6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828404047348658657",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35819,
+          "like_count": 190,
+          "quote_count": 32,
+          "reply_count": 388,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "余宇涵：“你峻豪哥教你打管” https://t.co/2ZKNDyd0L6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "hi这里姜渊/Isuna 中国语🇨🇳 其他使用翻译器 这里会发oc相关 我不是原画师 ❤️charlastor ❌Radioapple Wishing you happiness every day(~)",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763577562008334336/QtE7Csdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 33
+        },
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T06:59:00.000Z",
+        "description": "",
+        "id": "1828326283207479296",
+        "name": "nuoyafz",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 3,
+          "tweet_count": 8
+        },
+        "username": "nuoyafz827",
+        "verified": false
+      }
+    ]
+  }
+}

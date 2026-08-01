@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2082442887892283725",
+    "created_at": "2026-07-29T12:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082442887892283725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790323775663484928",
+          "start": 3,
+          "username": "hmt_kinoko_chan"
+        },
+        {
+          "end": 112,
+          "id": "1771390137882247168",
+          "start": 101,
+          "username": "gin_rokujo"
+        },
+        {
+          "end": 137,
+          "id": "2678918342",
+          "start": 125,
+          "username": "kurakichi36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082442887892283725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082363515038560263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hmt_kinoko_chan: ✦発売日が8/7に決定！✦\n記念にギフトコードを5名様にプレゼント🎁\n\n①当アカウントのフォロー\n②このポストをリポスト\n\n〆切：8/6\n\nキャスト：六条銀様　@gin_rokujo\n\nイラスト：倉吉サム様　@kurakichi36…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2082363428220583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYKgVBaQAA9e3x.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082442887892283725",
+        "created_at": "2026-07-29T12:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082442887892283725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790323775663484928",
+              "start": 3,
+              "username": "hmt_kinoko_chan"
+            },
+            {
+              "end": 112,
+              "id": "1771390137882247168",
+              "start": 101,
+              "username": "gin_rokujo"
+            },
+            {
+              "end": 137,
+              "id": "2678918342",
+              "start": 125,
+              "username": "kurakichi36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082442887892283725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082363515038560263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hmt_kinoko_chan: ✦発売日が8/7に決定！✦\n記念にギフトコードを5名様にプレゼント🎁\n\n①当アカウントのフォロー\n②このポストをリポスト\n\n〆切：8/6\n\nキャスト：六条銀様　@gin_rokujo\n\nイラスト：倉吉サム様　@kurakichi36…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082363428220583936"
+          ]
+        },
+        "author_id": "1790323775663484928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082363515038560263",
+        "created_at": "2026-07-29T07:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082363515038560263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "1771390137882247168",
+              "start": 80,
+              "username": "gin_rokujo"
+            },
+            {
+              "end": 116,
+              "id": "2678918342",
+              "start": 104,
+              "username": "kurakichi36"
+            },
+            {
+              "end": 145,
+              "id": "1424204296724221954",
+              "start": 132,
+              "username": "konkogitsune"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksjVR6aKhA",
+              "end": 169,
+              "expanded_url": "https://x.com/hmt_kinoko_chan/status/2082363515038560263/photo/1",
+              "media_key": "3_2082363428220583936",
+              "start": 146,
+              "url": "https://t.co/ksjVR6aKhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082363515038560263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 5923,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "✦発売日が8/7に決定！✦\n記念にギフトコードを5名様にプレゼント🎁\n\n①当アカウントのフォロー\n②このポストをリポスト\n\n〆切：8/6\n\nキャスト：六条銀様　@gin_rokujo\n\nイラスト：倉吉サム様　@kurakichi36\n\nシナリオ：こぎつねさくら様　@konkogitsune https://t.co/ksjVR6aKhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 138,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T10:10:39.000Z",
+        "description": "秘密のきのこちゃん🔞🍄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dlsite.com/girls/circle/p…",
+                "end": 23,
+                "expanded_url": "https://www.dlsite.com/girls/circle/profile/=/maker_id/RG01030027.html",
+                "start": 0,
+                "url": "https://t.co/kfhBHqMxMy"
+              }
+            ]
+          }
+        },
+        "id": "1790323775663484928",
+        "location": "日本",
+        "name": "秘密のきのこちゃん🔞🍄",
+        "pinned_tweet_id": "2050012935876145326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917402461717028864/T2K1lGfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 21,
+          "like_count": 148,
+          "listed_count": 9,
+          "media_count": 28,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/kfhBHqMxMy",
+        "username": "hmt_kinoko_chan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T04:15:11.000Z",
+        "description": "声のお仕事をさせていただいております。無断転載やスクリーンショットはご遠慮ください。 アイコン制作者様→ @oriyu_sun ボイスサンプル→ https://t.co/x5Zrhb3qVM ※ 第三者による無断著作物利用は禁止いたします。未成年の方の閲覧、フォローはご遠慮ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "oriyu_sun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/pawWa",
+                "end": 96,
+                "expanded_url": "https://x.gd/pawWa",
+                "start": 73,
+                "url": "https://t.co/x5Zrhb3qVM"
+              }
+            ]
+          }
+        },
+        "id": "1771390137882247168",
+        "name": "六条銀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855463529404567552/4HMjWocU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12467,
+          "following_count": 175,
+          "like_count": 13644,
+          "listed_count": 41,
+          "media_count": 63,
+          "tweet_count": 1875
+        },
+        "url": "",
+        "username": "gin_rokujo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-25T06:50:07.000Z",
+        "description": "kurakichi sam/フリーイラストレーター Vtuber・キャラクターデザイン/ミニキャラ /表紙挿絵 ジャケット等 ●skeb（個人の方はこちらから！非商用）▸ https://t.co/t09tquRhSF ✉2026年9月以降着手～イラスト制作のお仕事募集中です！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kurakichi36",
+                "end": 109,
+                "expanded_url": "http://skeb.jp/@kurakichi36",
+                "start": 86,
+                "url": "https://t.co/t09tquRhSF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/kurakichi36",
+                "end": 23,
+                "expanded_url": "https://potofu.me/kurakichi36",
+                "start": 0,
+                "url": "https://t.co/qobdOwvMXg"
+              }
+            ]
+          }
+        },
+        "id": "2678918342",
+        "location": "kurakichisam@gmail.com",
+        "name": "倉吉サム🐢お仕事募集中",
+        "pinned_tweet_id": "2051260447257706596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827640346358026240/lduGKRYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44704,
+          "following_count": 537,
+          "like_count": 26597,
+          "listed_count": 292,
+          "media_count": 4509,
+          "tweet_count": 32450
+        },
+        "url": "https://t.co/qobdOwvMXg",
+        "username": "kurakichi36",
+        "verified": true
+      }
+    ]
+  }
+}

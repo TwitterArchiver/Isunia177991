@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2079951549787492456",
+    "created_at": "2026-07-22T15:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079951549787492456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/real_kareshi/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/real_kareshi/status/2075873872860283021",
+          "start": 8,
+          "url": "https://t.co/jKq8u3Opo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079951549787492456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075873872860283021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱的银…… https://t.co/jKq8u3Opo6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128366,
+        "height": 1080,
+        "media_key": "13_2075873264287817728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075873264287817728/img/9OCveTNXeGAhym-p.jpg",
+        "public_metrics": {
+          "view_count": 21244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075873264287817728/vid/avc1/360x270/SraqL8exQQIX5yMR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075873264287817728/vid/avc1/480x360/QkRTqSvawSExsE2m.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075873264287817728/vid/avc1/960x720/6h7hjY4QTLXL3a6k.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075873264287817728/pl/UQMzX0kYPlN9cDE4.m3u8?tag=14&v=891"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2079951549787492456",
+        "created_at": "2026-07-22T15:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079951549787492456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/real_kareshi/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/real_kareshi/status/2075873872860283021",
+              "start": 8,
+              "url": "https://t.co/jKq8u3Opo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079951549787492456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075873872860283021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱的银…… https://t.co/jKq8u3Opo6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075873264287817728"
+          ]
+        },
+        "author_id": "1582171834300403718",
+        "conversation_id": "2075873872860283021",
+        "created_at": "2026-07-11T09:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075873872860283021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGq3HMWc0E",
+              "end": 124,
+              "expanded_url": "https://x.com/real_kareshi/status/2075873872860283021/video/1",
+              "media_key": "13_2075873264287817728",
+              "start": 101,
+              "url": "https://t.co/aGq3HMWc0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075873872860283021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 37732,
+          "like_count": 1027,
+          "quote_count": 28,
+          "reply_count": 1,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "＼＼次回作予告／／\n\nDom/Subシェアハウスへようこそ\n～支配と溺愛の調教プレイ～\n\n2026年8月リリース予定♪\nタイプの違うDom二人との、Dom/Subユニバースものです\n\n※音声が流れます https://t.co/aGq3HMWc0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T00:49:03.000Z",
+        "description": "リアルさと濃厚さに特化したドＭ女性向けR18音声・小説サークル🔞活動はlitlink⬇️仕事関連のご連絡は下記Gmailまで⬇️ 感想 #リアカレ男子 ＦＡ等 #リアカレ男子FA 質問箱https://t.co/d49TTjfeAj ライター垢@minase_yuuna",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 68,
+                "tag": "リアカレ男子"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "tag": "リアカレ男子FA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "minase_yuuna"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "00m.in/MFuNp",
+                "end": 116,
+                "expanded_url": "https://00m.in/MFuNp",
+                "start": 93,
+                "url": "https://t.co/d49TTjfeAj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/realkareshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/realkareshi",
+                "start": 0,
+                "url": "https://t.co/yyBUPzFQ6z"
+              }
+            ]
+          }
+        },
+        "id": "1582171834300403718",
+        "location": "✉real.kareshi@gmail.com",
+        "name": "リア☆カレ",
+        "pinned_tweet_id": "2076592621045342625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847569772818632704/xGzpDeA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 64,
+          "like_count": 284,
+          "listed_count": 15,
+          "media_count": 59,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/yyBUPzFQ6z",
+        "username": "real_kareshi",
+        "verified": false
+      }
+    ]
+  }
+}

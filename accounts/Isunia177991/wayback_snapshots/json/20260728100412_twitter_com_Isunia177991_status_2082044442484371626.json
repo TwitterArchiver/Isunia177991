@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2082044442484371626",
+    "created_at": "2026-07-28T10:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082044442484371626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hgds0/status/2081716978444837168",
+          "start": 4,
+          "url": "https://t.co/9eUUT1OstI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082044442484371626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081716978444837168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心情 https://t.co/9eUUT1OstI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2082044442484371626",
+        "created_at": "2026-07-28T10:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082044442484371626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hgds0/status/2081716978444837168",
+              "start": 4,
+              "url": "https://t.co/9eUUT1OstI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082044442484371626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081716978444837168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心情 https://t.co/9eUUT1OstI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507396901594820608",
+        "conversation_id": "2081716978444837168",
+        "created_at": "2026-07-27T12:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081716978444837168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081716978444837168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 26904,
+          "like_count": 633,
+          "quote_count": 12,
+          "reply_count": 83,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "我真的太爱吃醋了 对待任何很重要的关系就是这样 我吃醋了证明你是对我来说很特别的人 但我很别扭 吃醋了又不好意思说总想让你发现 其实你稍微对别人特别我都会醋劲大发气个半死 又不能小气吧啦的说你别和他们玩了和我玩 那咋了我就是占有欲强喜欢吃醋 最难过的是吃闷醋还没有被发现…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 123,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97271,
+          "following_count": 2419,
+          "like_count": 45387,
+          "listed_count": 144,
+          "media_count": 4552,
+          "tweet_count": 8971
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

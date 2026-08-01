@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2082677052776525862",
+    "created_at": "2026-07-30T08:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082748239871377678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763518520888025089",
+          "start": 0,
+          "username": "uranai_tenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082748239871377678",
+    "in_reply_to_user_id": "1763518520888025089",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082677052776525862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranai_tenshi 👼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2082677052776525862",
+        "created_at": "2026-07-30T08:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082748239871377678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763518520888025089",
+              "start": 0,
+              "username": "uranai_tenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082748239871377678",
+        "in_reply_to_user_id": "1763518520888025089",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082677052776525862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranai_tenshi 👼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763518520888025089",
+        "conversation_id": "2082677052776525862",
+        "created_at": "2026-07-30T03:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082677052776525862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082677052776525862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 35706,
+          "like_count": 1139,
+          "quote_count": 7,
+          "reply_count": 349,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "大好きな人から\n「急にごめん、やっぱり好き」って連絡がくる前兆。\n⁡\n「👼」をそっと置いてみてください\n早い人で9分後、本当に届きます👼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 165,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T10:56:04.000Z",
+        "description": "【フォローで恋愛運急上昇💓】累計鑑定人数1万人超 恋愛成就6000人超💓対面鑑定は現在紹介のみ😌多数の著名人✨【引き寄せ体質】が身につくと話題の鑑定🔮LINEブロックから復縁/片思いから急な告白/彼から溺愛されプロポーズ/禁断の関係が大逆転👉 https://t.co/BUqhLtMGr1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/koitenshi_offi…",
+                "end": 145,
+                "expanded_url": "https://bit.ly/koitenshi_official",
+                "start": 122,
+                "url": "https://t.co/BUqhLtMGr1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/koitenshi_offi…",
+                "end": 23,
+                "expanded_url": "https://bit.ly/koitenshi_official",
+                "start": 0,
+                "url": "https://t.co/BUqhLtMGr1"
+              }
+            ]
+          }
+        },
+        "id": "1763518520888025089",
+        "location": "🕊️無料鑑定実施中👉",
+        "name": "縁結びの恋天使🕊️💓",
+        "pinned_tweet_id": "1935519152153969009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935400680094629888/GXUs60Pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6444,
+          "following_count": 17,
+          "like_count": 2093,
+          "listed_count": 10,
+          "media_count": 1581,
+          "tweet_count": 5719
+        },
+        "url": "https://t.co/BUqhLtMGr1",
+        "username": "uranai_tenshi",
+        "verified": true
+      }
+    ]
+  }
+}

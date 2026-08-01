@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2082425234079248628",
+    "created_at": "2026-07-29T11:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082425234079248628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082425234079248628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家猫得了心脏病 一整天都在跑医院 好突然啊 像要活不下去的样子 如果能好起来就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2082425234079248628",
+        "created_at": "2026-07-29T11:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082425234079248628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082425234079248628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家猫得了心脏病 一整天都在跑医院 好突然啊 像要活不下去的样子 如果能好起来就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 136,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      }
+    ]
+  }
+}

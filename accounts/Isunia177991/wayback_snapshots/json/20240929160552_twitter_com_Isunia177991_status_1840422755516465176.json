@@ -1,0 +1,791 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1634648741746442245",
+        "3_1634648741562007552"
+      ],
+      "media_source_tweet_id": [
+        "1634648747849162753",
+        "1634648747849162753"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10046426305",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051425401",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sci-fi and fantasy",
+          "id": "847869772129685504",
+          "name": "Sci-fi & fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1223187634983292929",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481070956998656",
+          "name": "Sci-fi & fantasy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1223187634983292929",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      }
+    ],
+    "conversation_id": "1840422755516465176",
+    "created_at": "2024-09-29T16:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T17:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840422755516465176"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "mileven",
+          "probability": 0.4856,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 53,
+          "normalized_text": "StrangerThings",
+          "probability": 0.6009,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "mileven"
+        },
+        {
+          "end": 54,
+          "start": 39,
+          "tag": "StrangerThings"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555042093189431296",
+          "start": 3,
+          "username": "v0idelevn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fpucdhggzu",
+          "end": 78,
+          "expanded_url": "https://twitter.com/v0idelevn/status/1634648747849162753/photo/1",
+          "media_key": "3_1634648741746442245",
+          "start": 55,
+          "url": "https://t.co/fpuCdhggZU"
+        },
+        {
+          "display_url": "pic.x.com/fpucdhggzu",
+          "end": 78,
+          "expanded_url": "https://twitter.com/v0idelevn/status/1634648747849162753/photo/1",
+          "media_key": "3_1634648741562007552",
+          "start": 55,
+          "url": "https://t.co/fpuCdhggZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840422755516465176",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1634648747849162753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @v0idelevn: They made a 💖\n\n#mileven #StrangerThings https://t.co/fpuCdhggZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1634648741746442245",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fq9wXrBWAAUD5vl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 502,
+        "media_key": "3_1634648741562007552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fq9wXqVXwAA-yOJ.jpg",
+        "width": 429
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1634648741746442245",
+            "3_1634648741562007552"
+          ],
+          "media_source_tweet_id": [
+            "1634648747849162753",
+            "1634648747849162753"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10046426305",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051425401",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          }
+        ],
+        "conversation_id": "1840422755516465176",
+        "created_at": "2024-09-29T16:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T17:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840422755516465176"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "mileven",
+              "probability": 0.4856,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "StrangerThings",
+              "probability": 0.6009,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "mileven"
+            },
+            {
+              "end": 54,
+              "start": 39,
+              "tag": "StrangerThings"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555042093189431296",
+              "start": 3,
+              "username": "v0idelevn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpucdhggzu",
+              "end": 78,
+              "expanded_url": "https://twitter.com/v0idelevn/status/1634648747849162753/photo/1",
+              "media_key": "3_1634648741746442245",
+              "start": 55,
+              "url": "https://t.co/fpuCdhggZU"
+            },
+            {
+              "display_url": "pic.x.com/fpucdhggzu",
+              "end": 78,
+              "expanded_url": "https://twitter.com/v0idelevn/status/1634648747849162753/photo/1",
+              "media_key": "3_1634648741562007552",
+              "start": 55,
+              "url": "https://t.co/fpuCdhggZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840422755516465176",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1634648747849162753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @v0idelevn: They made a 💖\n\n#mileven #StrangerThings https://t.co/fpuCdhggZU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1634648741746442245",
+            "3_1634648741562007552"
+          ]
+        },
+        "author_id": "1555042093189431296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10046426305",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051425401",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          }
+        ],
+        "conversation_id": "1634648747849162753",
+        "created_at": "2023-03-11T20:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-11T20:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1634648747849162753"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "mileven",
+              "probability": 0.4728,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "StrangerThings",
+              "probability": 0.5303,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "mileven"
+            },
+            {
+              "end": 39,
+              "start": 24,
+              "tag": "StrangerThings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpucdhggzu",
+              "end": 63,
+              "expanded_url": "https://twitter.com/v0idelevn/status/1634648747849162753/photo/1",
+              "media_key": "3_1634648741746442245",
+              "start": 40,
+              "url": "https://t.co/fpuCdhggZU"
+            },
+            {
+              "display_url": "pic.x.com/fpucdhggzu",
+              "end": 63,
+              "expanded_url": "https://twitter.com/v0idelevn/status/1634648747849162753/photo/1",
+              "media_key": "3_1634648741562007552",
+              "start": 40,
+              "url": "https://t.co/fpuCdhggZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1634648747849162753",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 7523,
+          "like_count": 283,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "They made a 💖\n\n#mileven #StrangerThings https://t.co/fpuCdhggZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "hi这里姜渊/Isuna 中国语🇨🇳 其他使用翻译器 这里会发oc相关 我不是原画师 ❤️charlastor ❌Radioapple Wishing you happiness every day(~)",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763577562008334336/QtE7Csdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 147,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T04:05:20.000Z",
+        "description": "Nada síganme si quieren ver lindos dibujos de Mileven o algún tweet aburrido mío",
+        "id": "1555042093189431296",
+        "location": "BAD PLACE",
+        "name": "ivi",
+        "pinned_tweet_id": "1621777682127101954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587159925289099268/X2VTT83m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 124,
+          "like_count": 15829,
+          "listed_count": 1,
+          "tweet_count": 3204
+        },
+        "username": "v0idelevn",
+        "verified": false
+      }
+    ]
+  }
+}

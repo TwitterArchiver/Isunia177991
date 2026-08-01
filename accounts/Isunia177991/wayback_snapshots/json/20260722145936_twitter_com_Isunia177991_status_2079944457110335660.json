@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2079944457110335660",
+    "created_at": "2026-07-22T14:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079944457110335660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/syorakuka/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/syorakuka/status/2079895734023823516",
+          "start": 2,
+          "url": "https://t.co/lyIGi34rmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079944457110335660",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079895734023823516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "💓 https://t.co/lyIGi34rmf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2079944457110335660",
+        "created_at": "2026-07-22T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079944457110335660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syorakuka/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/syorakuka/status/2079895734023823516",
+              "start": 2,
+              "url": "https://t.co/lyIGi34rmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079944457110335660",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079895734023823516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💓 https://t.co/lyIGi34rmf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2401396237",
+        "conversation_id": "2079895734023823516",
+        "created_at": "2026-07-22T11:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079895734023823516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079895734023823516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 128220,
+          "like_count": 3703,
+          "quote_count": 138,
+          "reply_count": 20,
+          "retweet_count": 1029
+        },
+        "reply_settings": "everyone",
+        "text": "推しの顔、好きなんです\n推しの声が、好きなんです\n推しの歌声が、好きなんです\n推しの優しさが、好きなんです\n推しの笑った顔が、好きなんです\n推しのカッコよさが、好きなんです\n推しの可愛いらしさが、好きなんです\n推しの頑張っている姿が、好きなんです\n推しのすべてが、本当に、大好きなんです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-21T11:02:56.000Z",
+        "description": "推し活（推愛）を筆と言葉で紡ぎます✨\n推しは、あなたを救う！☆書道家☆心理士\n\n無断転載・商用利用・二次加工禁止。\nフォロワーさんはID記載で保存/アイコン/ヘッダーOKです！\n\n推しを推すなら、無理せず、あなたのペースで、あなたらしく！\n推し活note　↓　↓\nhttps://t.co/tclD6wOjpK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/syorakuka",
+                "end": 155,
+                "expanded_url": "https://note.com/syorakuka",
+                "start": 132,
+                "url": "https://t.co/tclD6wOjpK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/syorakuka8",
+                "end": 23,
+                "expanded_url": "https://lit.link/syorakuka8",
+                "start": 0,
+                "url": "https://t.co/Z4YmJ3q1Z9"
+              }
+            ]
+          }
+        },
+        "id": "2401396237",
+        "location": "　☆埼玉県 ",
+        "name": "書楽遊人　しろ",
+        "pinned_tweet_id": "2071191882210664691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429654461245399042/Jcrf8IFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66427,
+          "following_count": 304,
+          "like_count": 172847,
+          "listed_count": 179,
+          "media_count": 6863,
+          "tweet_count": 39695
+        },
+        "url": "https://t.co/Z4YmJ3q1Z9",
+        "username": "syorakuka",
+        "verified": true
+      }
+    ]
+  }
+}

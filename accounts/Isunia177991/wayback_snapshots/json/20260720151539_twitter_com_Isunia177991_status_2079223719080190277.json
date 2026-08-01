@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079223463391174657"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      }
+    ],
+    "conversation_id": "2079223719080190277",
+    "created_at": "2026-07-20T15:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079223719080190277"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "緑谷出久"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DNBd6QmdO9",
+          "end": 65,
+          "expanded_url": "https://x.com/Isunia177991/status/2079223719080190277/photo/1",
+          "media_key": "3_2079223463391174657",
+          "start": 42,
+          "url": "https://t.co/DNBd6QmdO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079223719080190277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#緑谷出久\n是这样打的吧……虽然已经过去很多天了但是还是发一下……！！来晚了！！！ https://t.co/DNBd6QmdO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2079223463391174657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNriuUgWoAEtpqY.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079223463391174657"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          }
+        ],
+        "conversation_id": "2079223719080190277",
+        "created_at": "2026-07-20T15:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079223719080190277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "緑谷出久"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNBd6QmdO9",
+              "end": 65,
+              "expanded_url": "https://x.com/Isunia177991/status/2079223719080190277/photo/1",
+              "media_key": "3_2079223463391174657",
+              "start": 42,
+              "url": "https://t.co/DNBd6QmdO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079223719080190277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#緑谷出久\n是这样打的吧……虽然已经过去很多天了但是还是发一下……！！来晚了！！！ https://t.co/DNBd6QmdO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝Isuna 🥦💥 ∬Prime×Diane（ram）∬",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      }
+    ]
+  }
+}

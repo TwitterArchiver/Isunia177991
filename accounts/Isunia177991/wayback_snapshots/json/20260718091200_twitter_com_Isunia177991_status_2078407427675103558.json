@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077404214217854976"
+      ],
+      "media_source_tweet_id": [
+        "2077404820496093543"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078407427675103558",
+    "created_at": "2026-07-18T09:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078407427675103558"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 15,
+          "tag": "緑谷出久生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680065240632025088",
+          "start": 3,
+          "username": "kakiku_K5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p1vrnlaBxx",
+          "end": 69,
+          "expanded_url": "https://x.com/kakiku_K5/status/2077404820496093543/photo/1",
+          "media_key": "3_2077404214217854976",
+          "start": 46,
+          "url": "https://t.co/p1vrnlaBxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078407427675103558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077404820496093543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakiku_K5: #緑谷出久生誕祭2026 \nデク君おめでとう～～～～……！！ https://t.co/p1vrnlaBxx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3928,
+        "media_key": "3_2077404214217854976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRsIFNa0AA286-.jpg",
+        "width": 3320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077404214217854976"
+          ]
+        },
+        "author_id": "1680065240632025088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077404820496093543",
+        "created_at": "2026-07-15T14:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077404820496093543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "緑谷出久生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1vrnlaBxx",
+              "end": 54,
+              "expanded_url": "https://x.com/kakiku_K5/status/2077404820496093543/photo/1",
+              "media_key": "3_2077404214217854976",
+              "start": 31,
+              "url": "https://t.co/p1vrnlaBxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077404820496093543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1733,
+          "impression_count": 218635,
+          "like_count": 20903,
+          "quote_count": 30,
+          "reply_count": 7,
+          "retweet_count": 3116
+        },
+        "reply_settings": "everyone",
+        "text": "#緑谷出久生誕祭2026 \nデク君おめでとう～～～～……！！ https://t.co/p1vrnlaBxx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077404214217854976"
+          ],
+          "media_source_tweet_id": [
+            "2077404820496093543"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078407427675103558",
+        "created_at": "2026-07-18T09:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078407427675103558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "緑谷出久生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680065240632025088",
+              "start": 3,
+              "username": "kakiku_K5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1vrnlaBxx",
+              "end": 69,
+              "expanded_url": "https://x.com/kakiku_K5/status/2077404820496093543/photo/1",
+              "media_key": "3_2077404214217854976",
+              "start": 46,
+              "url": "https://t.co/p1vrnlaBxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078407427675103558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077404820496093543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakiku_K5: #緑谷出久生誕祭2026 \nデク君おめでとう～～～～……！！ https://t.co/p1vrnlaBxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝Isuna 🥦💥 ∬Prime×Diane（ram）∬",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023301314835521536/3ZZLX5YM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 43,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T04:02:35.000Z",
+        "description": "無草｜🥦｜hrakお絵描き大好きマン｜幼馴染み狂い・オリジン組｜基本描くものにCP無し｜腐ROM寄り左右どっちも見ます｜無言フォロー失礼いたします🙇‍♀️｜Do not re-upload my work.｜成人済20↑｜腐垢▶︎@Egusaxv4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "Egusaxv4"
+              }
+            ]
+          }
+        },
+        "id": "1680065240632025088",
+        "location": "アニアカ最終回後出戻り",
+        "name": "言草",
+        "pinned_tweet_id": "2021536584252981759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026313090170826752/icXvgJze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9151,
+          "following_count": 67,
+          "like_count": 4714,
+          "listed_count": 25,
+          "media_count": 70,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "kakiku_K5",
+        "verified": false
+      }
+    ]
+  }
+}

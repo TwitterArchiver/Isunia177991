@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827747142695575552"
+      ],
+      "media_source_tweet_id": [
+        "1827747146722165100"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "conversation_id": "1828445000449073170",
+    "created_at": "2024-08-27T14:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T15:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828445000449073170"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "サウスパーク",
+          "probability": 0.5,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1779177646615875584",
+          "start": 3,
+          "username": "czFrV0PQVV80518"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rv8145woix",
+          "end": 57,
+          "expanded_url": "https://twitter.com/czFrV0PQVV80518/status/1827747146722165100/photo/1",
+          "media_key": "3_1827747142695575552",
+          "start": 34,
+          "url": "https://t.co/Rv8145WoIX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828445000449073170",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827747146722165100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @czFrV0PQVV80518: サウスパークのスタンです https://t.co/Rv8145WoIX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1827747142695575552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV12V6ua4AA2CWm.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827747142695575552"
+          ],
+          "media_source_tweet_id": [
+            "1827747146722165100"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "conversation_id": "1828445000449073170",
+        "created_at": "2024-08-27T14:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T15:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828445000449073170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "サウスパーク",
+              "probability": 0.5,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1779177646615875584",
+              "start": 3,
+              "username": "czFrV0PQVV80518"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rv8145woix",
+              "end": 57,
+              "expanded_url": "https://twitter.com/czFrV0PQVV80518/status/1827747146722165100/photo/1",
+              "media_key": "3_1827747142695575552",
+              "start": 34,
+              "url": "https://t.co/Rv8145WoIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828445000449073170",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827747146722165100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @czFrV0PQVV80518: サウスパークのスタンです https://t.co/Rv8145WoIX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827747142695575552"
+          ]
+        },
+        "author_id": "1779177646615875584",
+        "conversation_id": "1827747146722165100",
+        "created_at": "2024-08-25T16:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T17:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827747146722165100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "サウスパーク",
+              "probability": 0.4351,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rv8145woix",
+              "end": 36,
+              "expanded_url": "https://twitter.com/czFrV0PQVV80518/status/1827747146722165100/photo/1",
+              "media_key": "3_1827747142695575552",
+              "start": 13,
+              "url": "https://t.co/Rv8145WoIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827747146722165100",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4166,
+          "like_count": 248,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "サウスパークのスタンです https://t.co/Rv8145WoIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "hi这里姜渊/Isuna 中国语🇨🇳 其他使用翻译器 这里会发oc相关 我不是原画师 ❤️charlastor ❌Radioapple Wishing you happiness every day(~)",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763577562008334336/QtE7Csdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 138,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T16:01:29.000Z",
+        "description": "20↓ 海外アニメとか実況者が好きです。話かけてくれると嬉しいです",
+        "id": "1779177646615875584",
+        "name": "くじら蜘蛛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789520103358554113/ZbIpKR9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 8,
+          "like_count": 259,
+          "listed_count": 0,
+          "tweet_count": 89
+        },
+        "username": "czFrV0PQVV80518",
+        "verified": false
+      }
+    ]
+  }
+}

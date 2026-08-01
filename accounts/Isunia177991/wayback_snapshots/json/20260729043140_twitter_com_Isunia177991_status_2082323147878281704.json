@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082038024234491904"
+      ],
+      "media_source_tweet_id": [
+        "2082038029619970497"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082323147878281704",
+    "created_at": "2026-07-29T04:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082323147878281704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789051788752285698",
+          "start": 3,
+          "username": "dizzy_7bit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xvlzNmwZ0",
+          "end": 53,
+          "expanded_url": "https://x.com/dizzy_7bit/status/2082038029619970497/photo/1",
+          "media_key": "3_2082038024234491904",
+          "start": 30,
+          "url": "https://t.co/5xvlzNmwZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082323147878281704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082038029619970497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dizzy_7bit: ずっと変わらないままで…？ https://t.co/5xvlzNmwZ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082038024234491904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTijUtaYAAKnuK.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082038024234491904"
+          ]
+        },
+        "author_id": "1789051788752285698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082038029619970497",
+        "created_at": "2026-07-28T09:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082038029619970497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xvlzNmwZ0",
+              "end": 37,
+              "expanded_url": "https://x.com/dizzy_7bit/status/2082038029619970497/photo/1",
+              "media_key": "3_2082038024234491904",
+              "start": 14,
+              "url": "https://t.co/5xvlzNmwZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082038029619970497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 501,
+          "impression_count": 52205,
+          "like_count": 5910,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "ずっと変わらないままで…？ https://t.co/5xvlzNmwZ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082038024234491904"
+          ],
+          "media_source_tweet_id": [
+            "2082038029619970497"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082323147878281704",
+        "created_at": "2026-07-29T04:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082323147878281704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789051788752285698",
+              "start": 3,
+              "username": "dizzy_7bit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xvlzNmwZ0",
+              "end": 53,
+              "expanded_url": "https://x.com/dizzy_7bit/status/2082038029619970497/photo/1",
+              "media_key": "3_2082038024234491904",
+              "start": 30,
+              "url": "https://t.co/5xvlzNmwZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082323147878281704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082038029619970497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dizzy_7bit: ずっと変わらないままで…？ https://t.co/5xvlzNmwZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 128,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T21:56:13.000Z",
+        "description": "illustration✍🏻ご依頼受付中(Live2D可)→DMor✉️（dizzy.7bit@gmail.com）AI学習NG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@dizzy_7bit",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@dizzy_7bit",
+                "start": 0,
+                "url": "https://t.co/IgHKm0cL05"
+              }
+            ]
+          }
+        },
+        "id": "1789051788752285698",
+        "location": "成人済20↑",
+        "name": "Dizz",
+        "pinned_tweet_id": "1946548699137466789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789051990250840064/j9i_PUUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12251,
+          "following_count": 38,
+          "like_count": 980,
+          "listed_count": 32,
+          "media_count": 55,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/IgHKm0cL05",
+        "username": "dizzy_7bit",
+        "verified": false
+      }
+    ]
+  }
+}

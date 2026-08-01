@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2082042462508576833",
+    "created_at": "2026-07-28T09:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082042462508576833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790323775663484928",
+          "start": 3,
+          "username": "hmt_kinoko_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082042462508576833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082016463582548087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hmt_kinoko_chan: ✦次回予告✦\n次回作の発売が決定しました！\n\n「だめですね、仕事を全うしなければならない身で、\n自分の気持ちが先走ってしまうなんて」\n\n完璧な男が、あなただけに見せる欲と本音とは…？\n\nまた発売日が決まり次第\nギフトコードのキャンペーン…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2082016033133703168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTOjReaMAA149H.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2082042462508576833",
+        "created_at": "2026-07-28T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082042462508576833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790323775663484928",
+              "start": 3,
+              "username": "hmt_kinoko_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082042462508576833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082016463582548087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hmt_kinoko_chan: ✦次回予告✦\n次回作の発売が決定しました！\n\n「だめですね、仕事を全うしなければならない身で、\n自分の気持ちが先走ってしまうなんて」\n\n完璧な男が、あなただけに見せる欲と本音とは…？\n\nまた発売日が決まり次第\nギフトコードのキャンペーン…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082016033133703168"
+          ]
+        },
+        "author_id": "1790323775663484928",
+        "conversation_id": "2082016463582548087",
+        "created_at": "2026-07-28T08:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082016463582548087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwyfCe6TeT",
+              "end": 167,
+              "expanded_url": "https://x.com/hmt_kinoko_chan/status/2082016463582548087/photo/1",
+              "media_key": "3_2082016033133703168",
+              "start": 144,
+              "url": "https://t.co/KwyfCe6TeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082016463582548087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2343,
+          "like_count": 75,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "✦次回予告✦\n次回作の発売が決定しました！\n\n「だめですね、仕事を全うしなければならない身で、\n自分の気持ちが先走ってしまうなんて」\n\n完璧な男が、あなただけに見せる欲と本音とは…？\n\nまた発売日が決まり次第\nギフトコードのキャンペーンをしますので\nぜひご参加よろしくお願いいたします✨ https://t.co/KwyfCe6TeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 123,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T10:10:39.000Z",
+        "description": "秘密のきのこちゃん🔞🍄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dlsite.com/girls/circle/p…",
+                "end": 23,
+                "expanded_url": "https://www.dlsite.com/girls/circle/profile/=/maker_id/RG01030027.html",
+                "start": 0,
+                "url": "https://t.co/kfhBHqMxMy"
+              }
+            ]
+          }
+        },
+        "id": "1790323775663484928",
+        "location": "日本",
+        "name": "秘密のきのこちゃん🔞🍄",
+        "pinned_tweet_id": "2050012935876145326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917402461717028864/T2K1lGfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 21,
+          "like_count": 147,
+          "listed_count": 9,
+          "media_count": 27,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/kfhBHqMxMy",
+        "username": "hmt_kinoko_chan",
+        "verified": false
+      }
+    ]
+  }
+}

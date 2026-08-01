@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082494155566301184",
+        "3_2082494189187768320"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "conversation_id": "2082494211660956076",
+    "created_at": "2026-07-29T15:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082494211660956076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HkOKMaTaY8",
+          "end": 42,
+          "expanded_url": "https://x.com/Isunia177991/status/2082494211660956076/photo/1",
+          "media_key": "3_2082494155566301184",
+          "start": 19,
+          "url": "https://t.co/HkOKMaTaY8"
+        },
+        {
+          "display_url": "pic.x.com/HkOKMaTaY8",
+          "end": 42,
+          "expanded_url": "https://x.com/Isunia177991/status/2082494211660956076/photo/1",
+          "media_key": "3_2082494189187768320",
+          "start": 19,
+          "url": "https://t.co/HkOKMaTaY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082494211660956076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好可爱啊_(:з」∠)_小太郎♡ https://t.co/HkOKMaTaY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3468,
+        "media_key": "3_2082494155566301184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaBZqVbQAAMHF9.jpg",
+        "width": 3468
+      },
+      {
+        "height": 3468,
+        "media_key": "3_2082494189187768320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaBbnlaIAArUVo.jpg",
+        "width": 3468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082494155566301184",
+            "3_2082494189187768320"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "conversation_id": "2082494211660956076",
+        "created_at": "2026-07-29T15:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082494211660956076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkOKMaTaY8",
+              "end": 42,
+              "expanded_url": "https://x.com/Isunia177991/status/2082494211660956076/photo/1",
+              "media_key": "3_2082494155566301184",
+              "start": 19,
+              "url": "https://t.co/HkOKMaTaY8"
+            },
+            {
+              "display_url": "pic.x.com/HkOKMaTaY8",
+              "end": 42,
+              "expanded_url": "https://x.com/Isunia177991/status/2082494211660956076/photo/1",
+              "media_key": "3_2082494189187768320",
+              "start": 19,
+              "url": "https://t.co/HkOKMaTaY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082494211660956076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好可爱啊_(:з」∠)_小太郎♡ https://t.co/HkOKMaTaY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 153,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      }
+    ]
+  }
+}

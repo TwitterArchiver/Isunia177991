@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2081719502698618902",
+    "created_at": "2026-07-27T12:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081719502698618902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mhyk_wn/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/mhyk_wn/status/1951876255894368412",
+          "start": 6,
+          "url": "https://t.co/BfIbtKcYpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081719502698618902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951876255894368412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱…… https://t.co/BfIbtKcYpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_1951876246297817088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxZ1GsIasAAfyLi.jpg",
+        "width": 1421
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2081719502698618902",
+        "created_at": "2026-07-27T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081719502698618902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhyk_wn/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/mhyk_wn/status/1951876255894368412",
+              "start": 6,
+              "url": "https://t.co/BfIbtKcYpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081719502698618902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951876255894368412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱…… https://t.co/BfIbtKcYpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951876246297817088"
+          ]
+        },
+        "author_id": "1312935188591120384",
+        "conversation_id": "1951876255894368412",
+        "created_at": "2025-08-03T05:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951876255894368412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "淫魔教育FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WX54SnpiFE",
+              "end": 31,
+              "expanded_url": "https://x.com/mhyk_wn/status/1951876255894368412/photo/1",
+              "media_key": "3_1951876246297817088",
+              "start": 8,
+              "url": "https://t.co/WX54SnpiFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951876255894368412",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 40577,
+          "like_count": 1446,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 100
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#淫魔教育FA https://t.co/WX54SnpiFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2080325180640186373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 103,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T01:58:50.000Z",
+        "description": "ﾜﾝ( ᷇ᴥ ᷆ )成人済/未成年フォロー非推奨/なんでも許せる方、自衛できる方推奨です。あまり絵上がりません｜参加予定:12月エメ先",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/wan-wan",
+                "end": 23,
+                "expanded_url": "https://potofu.me/wan-wan",
+                "start": 0,
+                "url": "https://t.co/703Lpcq1KZ"
+              }
+            ]
+          }
+        },
+        "id": "1312935188591120384",
+        "location": "FRBご自由に！｜リンク先に色々まとめてます",
+        "name": "wn",
+        "pinned_tweet_id": "1990026256113606687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650664171615424512/A-2WJJ2t_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 105,
+          "like_count": 12095,
+          "listed_count": 27,
+          "media_count": 1083,
+          "tweet_count": 9531
+        },
+        "url": "https://t.co/703Lpcq1KZ",
+        "username": "mhyk_wn",
+        "verified": false
+      }
+    ]
+  }
+}

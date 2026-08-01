@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078696098835881984"
+      ],
+      "media_source_tweet_id": [
+        "2078696106914128243"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      }
+    ],
+    "conversation_id": "2079077412311277650",
+    "created_at": "2026-07-20T05:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079077412311277650"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 20,
+          "tag": "ジャンプビクトリーカーニバル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2595718380",
+          "start": 3,
+          "username": "myheroacademia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xLgwUtUUih",
+          "end": 126,
+          "expanded_url": "https://x.com/myheroacademia/status/2078696106914128243/photo/1",
+          "media_key": "3_2078696098835881984",
+          "start": 103,
+          "url": "https://t.co/xLgwUtUUih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079077412311277650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078696106914128243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myheroacademia: #ジャンプビクトリーカーニバル\nキャラクターグリーディングに参加してくださった皆さん、ありがとうございました！\n\nツーショット撮影とかファンサ頑張ってて偉いぞ、デク https://t.co/xLgwUtUUih"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2078696098835881984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkDFqcaYAArd9q.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078696098835881984"
+          ]
+        },
+        "author_id": "2595718380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          }
+        ],
+        "conversation_id": "2078696106914128243",
+        "created_at": "2026-07-19T04:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078696106914128243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "ジャンプビクトリーカーニバル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLgwUtUUih",
+              "end": 106,
+              "expanded_url": "https://x.com/myheroacademia/status/2078696106914128243/photo/1",
+              "media_key": "3_2078696098835881984",
+              "start": 83,
+              "url": "https://t.co/xLgwUtUUih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078696106914128243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 145444,
+          "like_count": 3076,
+          "quote_count": 81,
+          "reply_count": 1,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "#ジャンプビクトリーカーニバル\nキャラクターグリーディングに参加してくださった皆さん、ありがとうございました！\n\nツーショット撮影とかファンサ頑張ってて偉いぞ、デク https://t.co/xLgwUtUUih"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078696098835881984"
+          ],
+          "media_source_tweet_id": [
+            "2078696106914128243"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          }
+        ],
+        "conversation_id": "2079077412311277650",
+        "created_at": "2026-07-20T05:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079077412311277650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 20,
+              "tag": "ジャンプビクトリーカーニバル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2595718380",
+              "start": 3,
+              "username": "myheroacademia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLgwUtUUih",
+              "end": 126,
+              "expanded_url": "https://x.com/myheroacademia/status/2078696106914128243/photo/1",
+              "media_key": "3_2078696098835881984",
+              "start": 103,
+              "url": "https://t.co/xLgwUtUUih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079077412311277650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078696106914128243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myheroacademia: #ジャンプビクトリーカーニバル\nキャラクターグリーディングに参加してくださった皆さん、ありがとうございました！\n\nツーショット撮影とかファンサ頑張ってて偉いぞ、デク https://t.co/xLgwUtUUih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝Isuna 🥦💥 ∬Prime×Diane（ram）∬",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T03:42:52.000Z",
+        "description": "週刊少年ジャンプ連載「僕のヒーローアカデミア(ヒロアカ)」の原作公式アカウントです！世界累計発行部数1億部突破(24年4月時点) ！コミックス最終42巻発売中！新ファンブック＆初の画集も発売中！原画展仙台27年1月〜開催",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shonenjump.com/j/rensai/myher…",
+                "end": 23,
+                "expanded_url": "https://www.shonenjump.com/j/rensai/myhero.html",
+                "start": 0,
+                "url": "https://t.co/tthkvEJQmU"
+              }
+            ]
+          }
+        },
+        "id": "2595718380",
+        "location": "少年ジャンプ編集部",
+        "name": "僕のヒーローアカデミア公式",
+        "pinned_tweet_id": "1978309859385753894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/483458192186146816/uliTxbC9_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171955,
+          "following_count": 41,
+          "like_count": 46,
+          "listed_count": 4191,
+          "media_count": 15309,
+          "tweet_count": 21398
+        },
+        "url": "https://t.co/tthkvEJQmU",
+        "username": "myheroacademia",
+        "verified": true
+      }
+    ]
+  }
+}

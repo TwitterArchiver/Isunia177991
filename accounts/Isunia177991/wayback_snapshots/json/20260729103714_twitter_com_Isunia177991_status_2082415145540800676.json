@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2082415145540800676",
+    "created_at": "2026-07-29T10:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082415145540800676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2401396237",
+          "start": 3,
+          "username": "syorakuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082415145540800676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082070061142192167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syorakuka: 推しは、推せば推すほど\n　推してるのにもっと推したくなる\n\n推しは、推せば推すほど\n　さっき会ったのにすぐ会いたくなる\n\n推しは、推せば推すほど\n　好きになり愛おしく想える\n\n推しは、推せば推すほど\n「待ってちょっ無理…顔も声もすき…無理かも…やっ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2082415145540800676",
+        "created_at": "2026-07-29T10:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082415145540800676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2401396237",
+              "start": 3,
+              "username": "syorakuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082415145540800676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082070061142192167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syorakuka: 推しは、推せば推すほど\n　推してるのにもっと推したくなる\n\n推しは、推せば推すほど\n　さっき会ったのにすぐ会いたくなる\n\n推しは、推せば推すほど\n　好きになり愛おしく想える\n\n推しは、推せば推すほど\n「待ってちょっ無理…顔も声もすき…無理かも…やっ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2401396237",
+        "conversation_id": "2082070061142192167",
+        "created_at": "2026-07-28T11:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082070061142192167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082070061142192167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 78087,
+          "like_count": 2097,
+          "quote_count": 30,
+          "reply_count": 5,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "推しは、推せば推すほど\n　推してるのにもっと推したくなる\n\n推しは、推せば推すほど\n　さっき会ったのにすぐ会いたくなる\n\n推しは、推せば推すほど\n　好きになり愛おしく想える\n\n推しは、推せば推すほど\n「待ってちょっ無理…顔も声もすき…無理かも…やっぱ推させて！」って、語彙力なくなるんよな。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 135,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-21T11:02:56.000Z",
+        "description": "推し活（推愛）を筆と言葉で紡ぎます✨\n推しは、あなたを救う！☆書道家☆心理士\n\n無断転載・商用利用・二次加工禁止。\nフォロワーさんはID記載で保存/アイコン/ヘッダーOKです！\n\n推しを推すなら、無理せず、あなたのペースで、あなたらしく！\n推し活note　↓　↓\nhttps://t.co/tclD6wOjpK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/syorakuka",
+                "end": 155,
+                "expanded_url": "https://note.com/syorakuka",
+                "start": 132,
+                "url": "https://t.co/tclD6wOjpK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/syorakuka8",
+                "end": 23,
+                "expanded_url": "https://lit.link/syorakuka8",
+                "start": 0,
+                "url": "https://t.co/Z4YmJ3q1Z9"
+              }
+            ]
+          }
+        },
+        "id": "2401396237",
+        "location": "　☆埼玉県 ",
+        "name": "書楽遊人　しろ",
+        "pinned_tweet_id": "2071191882210664691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429654461245399042/Jcrf8IFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66599,
+          "following_count": 304,
+          "like_count": 173709,
+          "listed_count": 179,
+          "media_count": 6864,
+          "tweet_count": 39725
+        },
+        "url": "https://t.co/Z4YmJ3q1Z9",
+        "username": "syorakuka",
+        "verified": true
+      }
+    ]
+  }
+}

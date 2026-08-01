@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2081800866294849640",
+    "created_at": "2026-07-27T17:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081800866294849640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081800866294849640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我一直都觉得自己是一个很能忍耐的人。忍耐关系里的不平等，忍耐痛苦，忍耐发生的一切不幸，这些大家似乎都挺过来了，社会在把我们变成一个很能忍耐的人，然后利用我们，没有自我思维的工具，我不要这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2081800866294849640",
+        "created_at": "2026-07-27T17:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081800866294849640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081800866294849640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直都觉得自己是一个很能忍耐的人。忍耐关系里的不平等，忍耐痛苦，忍耐发生的一切不幸，这些大家似乎都挺过来了，社会在把我们变成一个很能忍耐的人，然后利用我们，没有自我思维的工具，我不要这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 120,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      }
+    ]
+  }
+}

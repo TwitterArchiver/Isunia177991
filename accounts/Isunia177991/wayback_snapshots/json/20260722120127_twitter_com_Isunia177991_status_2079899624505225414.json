@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "読売テレビ・日本テレビ系で放送、同名の漫画が原作のアニメ",
+          "id": "10043651955",
+          "name": "僕のヒーローアカデミア"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491179499764924416",
+          "name": "Superhero"
+        }
+      }
+    ],
+    "conversation_id": "2079899624505225414",
+    "created_at": "2026-07-22T12:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079899624505225414"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "ハンズ"
+        },
+        {
+          "end": 73,
+          "start": 67,
+          "tag": "ハンズビー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1007349386689429504",
+          "start": 3,
+          "username": "Heroaca_Hands"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079899624505225414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079401067528573325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heroaca_Hands: DIY&amp;アニメ「僕のヒーローアカデミア」放送10周年アニバーサリーフェアが #ハンズ  #ハンズビー で開催決定🎉\n\nフェアを記念したキャンペーン第1弾がスタート💥\nこのポストをリポスト！　～7/27締切\n抽選で1名様にフェア先行アイテムが…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2079401056497545216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuEPmYbsAAUGn1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "読売テレビ・日本テレビ系で放送、同名の漫画が原作のアニメ",
+              "id": "10043651955",
+              "name": "僕のヒーローアカデミア"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491179499764924416",
+              "name": "Superhero"
+            }
+          }
+        ],
+        "conversation_id": "2079899624505225414",
+        "created_at": "2026-07-22T12:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079899624505225414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "ハンズ"
+            },
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "ハンズビー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1007349386689429504",
+              "start": 3,
+              "username": "Heroaca_Hands"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079899624505225414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079401067528573325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heroaca_Hands: DIY&amp;アニメ「僕のヒーローアカデミア」放送10周年アニバーサリーフェアが #ハンズ  #ハンズビー で開催決定🎉\n\nフェアを記念したキャンペーン第1弾がスタート💥\nこのポストをリポスト！　～7/27締切\n抽選で1名様にフェア先行アイテムが…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079401056497545216"
+          ]
+        },
+        "author_id": "1007349386689429504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "読売テレビ・日本テレビ系で放送、同名の漫画が原作のアニメ",
+              "id": "10043651955",
+              "name": "僕のヒーローアカデミア"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491179499764924416",
+              "name": "Superhero"
+            }
+          }
+        ],
+        "conversation_id": "2079401067528573325",
+        "created_at": "2026-07-21T03:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079401067528573325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "ハンズ"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "ハンズビー"
+            },
+            {
+              "end": 139,
+              "start": 129,
+              "tag": "heroaca_a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnjLLJawws",
+              "end": 163,
+              "expanded_url": "https://x.com/Heroaca_Hands/status/2079401067528573325/photo/1",
+              "media_key": "3_2079401056497545216",
+              "start": 140,
+              "url": "https://t.co/vnjLLJawws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079401067528573325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 125045,
+          "like_count": 1668,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 1430
+        },
+        "reply_settings": "everyone",
+        "text": "DIY&amp;アニメ「僕のヒーローアカデミア」放送10周年アニバーサリーフェアが #ハンズ  #ハンズビー で開催決定🎉\n\nフェアを記念したキャンペーン第1弾がスタート💥\nこのポストをリポスト！　～7/27締切\n抽選で1名様にフェア先行アイテムが当たる！\n#heroaca_a https://t.co/vnjLLJawws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 64,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-14T19:49:44.000Z",
+        "description": "DIY&アニメ「僕のヒーローアカデミア」放送10周年アニバーサリーフェア in ハンズが2026年7月24日(金)よりスタート🎉全国のハンズ・ハンズ ビー21店舗にて展開いたします🔥\n先行販売グッズや購入特典等、内容盛り沢山です👀ぜひフォローしてフェア情報をチェックしてください🔎\n特設HPはこちら！↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heroaca-hands.com",
+                "end": 23,
+                "expanded_url": "https://www.heroaca-hands.com",
+                "start": 0,
+                "url": "https://t.co/WRjEI21fxH"
+              }
+            ]
+          }
+        },
+        "id": "1007349386689429504",
+        "name": "DIY&アニメ「僕のヒーローアカデミア」放送10周年アニバーサリーフェア in ハンズ",
+        "pinned_tweet_id": "2067805304138637591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067805603247058944/Y4DZcrwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34203,
+          "following_count": 22,
+          "like_count": 158,
+          "listed_count": 192,
+          "media_count": 404,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/WRjEI21fxH",
+        "username": "Heroaca_Hands",
+        "verified": true
+      }
+    ]
+  }
+}
