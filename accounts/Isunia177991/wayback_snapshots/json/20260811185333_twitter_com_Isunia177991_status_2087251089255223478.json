@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2087175157697937537",
+    "created_at": "2026-08-11T18:53:33.000Z",
+    "display_text_range": [
+      12,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087251089255223478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771390137882247168",
+          "start": 0,
+          "username": "gin_rokujo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087251089255223478",
+    "in_reply_to_user_id": "1771390137882247168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087175157697937537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gin_rokujo 没关系哦……好可爱的银酱(๑• . •๑）这样的帖子请多多降临🥺💕早点休息哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2087175157697937537",
+        "created_at": "2026-08-11T18:53:33.000Z",
+        "display_text_range": [
+          12,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087251089255223478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771390137882247168",
+              "start": 0,
+              "username": "gin_rokujo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087251089255223478",
+        "in_reply_to_user_id": "1771390137882247168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087175157697937537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gin_rokujo 没关系哦……好可爱的银酱(๑• . •๑）这样的帖子请多多降临🥺💕早点休息哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771390137882247168",
+        "conversation_id": "2087175157697937537",
+        "created_at": "2026-08-11T13:51:50.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087175157697937537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087175157697937537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10666,
+          "like_count": 397,
+          "quote_count": 29,
+          "reply_count": 36,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "2回してしまった‼️\n本当にすみません‼️\nごめんなさい‼️\n本当にすみません‼️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087251089255223478",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 204,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-23T04:15:11.000Z",
+        "description": "声のお仕事をさせていただいております。無断転載やスクリーンショットはご遠慮ください。 アイコン制作者様→ @oriyu_sun ボイスサンプル→ https://t.co/x5Zrhb3qVM ※ 第三者による無断著作物利用は禁止いたします。未成年の方の閲覧、フォローはご遠慮ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "oriyu_sun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/pawWa",
+                "end": 96,
+                "expanded_url": "https://x.gd/pawWa",
+                "start": 73,
+                "url": "https://t.co/x5Zrhb3qVM"
+              }
+            ]
+          }
+        },
+        "id": "1771390137882247168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087175157697937537",
+        "name": "六条銀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855463529404567552/4HMjWocU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12618,
+          "following_count": 176,
+          "like_count": 13530,
+          "listed_count": 42,
+          "media_count": 63,
+          "tweet_count": 1885
+        },
+        "url": "",
+        "username": "gin_rokujo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

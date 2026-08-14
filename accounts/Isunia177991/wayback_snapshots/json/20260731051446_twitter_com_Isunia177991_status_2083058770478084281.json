@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082752367779516416"
+      ],
+      "media_source_tweet_id": [
+        "2082753063698194692"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "conversation_id": "2083058770478084281",
+    "created_at": "2026-07-31T05:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083058770478084281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063856710809456640",
+          "start": 3,
+          "username": "hadainochi__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4fL7a3lSx",
+          "end": 71,
+          "expanded_url": "https://x.com/hadainochi__/status/2082753063698194692/video/1",
+          "media_key": "13_2082752367779516416",
+          "start": 48,
+          "url": "https://t.co/n4fL7a3lSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083058770478084281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082753063698194692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hadainochi__: え、やばい…….たった数ミリで顔面偏差値変わりすぎて怖い。 https://t.co/n4fL7a3lSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45603,
+        "height": 720,
+        "media_key": "13_2082752367779516416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082752367779516416/img/vCKlgtVPS-IhaKFZ.jpg",
+        "public_metrics": {
+          "view_count": 655374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082752367779516416/vid/avc1/272x270/o2n1hoBO6Zx7jDqu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082752367779516416/vid/avc1/362x360/3H26YEuXBCLTPg1t.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082752367779516416/vid/avc1/726x720/YMZ7LY4HhGcPrnI2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082752367779516416/pl/umqCnnzgCI25XKHc.m3u8?tag=14"
+          }
+        ],
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082752367779516416"
+          ]
+        },
+        "author_id": "2063856710809456640",
+        "conversation_id": "2082753063698194692",
+        "created_at": "2026-07-30T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082753063698194692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4fL7a3lSx",
+              "end": 53,
+              "expanded_url": "https://x.com/hadainochi__/status/2082753063698194692/video/1",
+              "media_key": "13_2082752367779516416",
+              "start": 30,
+              "url": "https://t.co/n4fL7a3lSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082753063698194692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3567,
+          "impression_count": 1229259,
+          "like_count": 4425,
+          "quote_count": 38,
+          "reply_count": 37,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "え、やばい…….たった数ミリで顔面偏差値変わりすぎて怖い。 https://t.co/n4fL7a3lSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082752367779516416"
+          ],
+          "media_source_tweet_id": [
+            "2082753063698194692"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "conversation_id": "2083058770478084281",
+        "created_at": "2026-07-31T05:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083058770478084281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063856710809456640",
+              "start": 3,
+              "username": "hadainochi__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4fL7a3lSx",
+              "end": 71,
+              "expanded_url": "https://x.com/hadainochi__/status/2082753063698194692/video/1",
+              "media_key": "13_2082752367779516416",
+              "start": 48,
+              "url": "https://t.co/n4fL7a3lSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083058770478084281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082753063698194692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hadainochi__: え、やばい…….たった数ミリで顔面偏差値変わりすぎて怖い。 https://t.co/n4fL7a3lSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 179,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T05:34:56.000Z",
+        "description": "田舎育ちの元ド芋女が上京してメイク研究してます。",
+        "id": "2063856710809456640",
+        "name": "メイク上手くなりてぇ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050586697740288/YvxtyJ1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "hadainochi__",
+        "verified": false
+      }
+    ]
+  }
+}

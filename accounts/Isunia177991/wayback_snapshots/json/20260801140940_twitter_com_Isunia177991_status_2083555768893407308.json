@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2083531418991534276",
+    "created_at": "2026-08-01T14:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083555768893407308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898711479442104320",
+          "start": 0,
+          "username": "HCCCCH0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083555768893407308",
+    "in_reply_to_user_id": "1898711479442104320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083531418991534276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCCCCH0902 好辛苦！！！好好休息呀！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27533,
+        "height": 1280,
+        "media_key": "13_2083531380798222336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083531380798222336/img/k2Mebga3KRwyQ3CW.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083531380798222336/vid/avc1/320x568/6I2oMVOaGdHcIf0D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083531380798222336/vid/avc1/480x852/HHr0fp0m3e6TyQ7Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083531380798222336/vid/avc1/720x1280/wajWLFglH4tWKmiQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083531380798222336/pl/FFOG7hTrbmk969HV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2083531418991534276",
+        "created_at": "2026-08-01T14:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083555768893407308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898711479442104320",
+              "start": 0,
+              "username": "HCCCCH0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083555768893407308",
+        "in_reply_to_user_id": "1898711479442104320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083531418991534276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCCCCH0902 好辛苦！！！好好休息呀！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083531380798222336"
+          ]
+        },
+        "author_id": "1898711479442104320",
+        "conversation_id": "2083531418991534276",
+        "created_at": "2026-08-01T12:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083531418991534276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMLjMVQVeB",
+              "end": 44,
+              "expanded_url": "https://x.com/HCCCCH0902/status/2083531418991534276/video/1",
+              "media_key": "13_2083531380798222336",
+              "start": 21,
+              "url": "https://t.co/YMLjMVQVeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531418991534276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个已经连上了20天班的疲惫成年女性 https://t.co/YMLjMVQVeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 206,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T12:24:41.000Z",
+        "description": "念我名字嘴角可以上扬2秒钟🤗",
+        "id": "1898711479442104320",
+        "name": "小柴柴胡",
+        "pinned_tweet_id": "2052741565634986314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930337575094628353/BCPPY8Sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 430,
+          "like_count": 5641,
+          "listed_count": 0,
+          "media_count": 441,
+          "tweet_count": 2611
+        },
+        "url": "",
+        "username": "HCCCCH0902",
+        "verified": false
+      }
+    ]
+  }
+}

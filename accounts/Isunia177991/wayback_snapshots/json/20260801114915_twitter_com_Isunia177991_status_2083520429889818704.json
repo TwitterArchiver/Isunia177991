@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2083518565450399848",
+    "created_at": "2026-08-01T11:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083520429889818704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083520429889818704",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083518565450399848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 好漂亮的舌钉！你也好漂亮好漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083518559234535424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzYbsAA77WV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083518559268020224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzgaoAAQIag.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083518559234433024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzYaIAApSfH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083518559272218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzhasAAq-OQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2083518565450399848",
+        "created_at": "2026-08-01T11:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083520429889818704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083520429889818704",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083518565450399848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 好漂亮的舌钉！你也好漂亮好漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083518559234535424",
+            "3_2083518559268020224",
+            "3_2083518559234433024",
+            "3_2083518559272218624"
+          ]
+        },
+        "author_id": "1860377535215013888",
+        "conversation_id": "2083518565450399848",
+        "created_at": "2026-08-01T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083518565450399848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559234535424",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            },
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559268020224",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            },
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559234433024",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            },
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559272218624",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083518565450399848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舌钉👅 https://t.co/rzJ5DdUJ9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 201,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "ENTP｜keep honored\n称呼随意什麼都行 Arai/kilo\n｜生理女心理女^欢迎聊天^互關大歡迎｜\n-\n双手合十的时候，第一个听到祈祷的人是自己。",
+        "id": "1860377535215013888",
+        "location": "Singapore",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2081818446371934245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 243,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true
+      }
+    ]
+  }
+}

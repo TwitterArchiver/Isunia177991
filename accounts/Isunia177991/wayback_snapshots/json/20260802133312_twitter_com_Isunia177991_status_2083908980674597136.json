@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2083780056552468517",
+    "created_at": "2026-08-02T13:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083908980674597136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665285141676314629",
+          "start": 0,
+          "username": "shizu_kumi14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083908980674597136",
+    "in_reply_to_user_id": "1665285141676314629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083780056552468517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizu_kumi14 感觉好好吃哦～(￣▽￣～)~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_2083779905255567360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsSyJLa8AA1gzT.jpg",
+        "width": 3883
+      },
+      {
+        "height": 3090,
+        "media_key": "3_2083779959198498816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsS1SIawAAv4c9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083779991377182721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsS3KAagAEou31.jpg",
+        "width": 3664
+      },
+      {
+        "height": 3232,
+        "media_key": "3_2083780028060594176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsS5Sqa8AABGGP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2083780056552468517",
+        "created_at": "2026-08-02T13:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083908980674597136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665285141676314629",
+              "start": 0,
+              "username": "shizu_kumi14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083908980674597136",
+        "in_reply_to_user_id": "1665285141676314629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083780056552468517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizu_kumi14 感觉好好吃哦～(￣▽￣～)~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083779905255567360",
+            "3_2083779959198498816",
+            "3_2083779991377182721",
+            "3_2083780028060594176"
+          ]
+        },
+        "author_id": "1665285141676314629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083780056552468517",
+        "created_at": "2026-08-02T05:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083780056552468517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahtv1X6WJp",
+              "end": 83,
+              "expanded_url": "https://x.com/shizu_kumi14/status/2083780056552468517/photo/1",
+              "media_key": "3_2083779905255567360",
+              "start": 60,
+              "url": "https://t.co/ahtv1X6WJp"
+            },
+            {
+              "display_url": "pic.x.com/ahtv1X6WJp",
+              "end": 83,
+              "expanded_url": "https://x.com/shizu_kumi14/status/2083780056552468517/photo/1",
+              "media_key": "3_2083779959198498816",
+              "start": 60,
+              "url": "https://t.co/ahtv1X6WJp"
+            },
+            {
+              "display_url": "pic.x.com/ahtv1X6WJp",
+              "end": 83,
+              "expanded_url": "https://x.com/shizu_kumi14/status/2083780056552468517/photo/1",
+              "media_key": "3_2083779991377182721",
+              "start": 60,
+              "url": "https://t.co/ahtv1X6WJp"
+            },
+            {
+              "display_url": "pic.x.com/ahtv1X6WJp",
+              "end": 83,
+              "expanded_url": "https://x.com/shizu_kumi14/status/2083780056552468517/photo/1",
+              "media_key": "3_2083780028060594176",
+              "start": 60,
+              "url": "https://t.co/ahtv1X6WJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083780056552468517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1409,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又和朋友出门了\n吃这种的时候……\n好想用筷子……\n用上刀叉就感觉自己和自己的手不太熟\n接下来是甜品鉴赏时刻！（还没拍） https://t.co/ahtv1X6WJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 207,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T09:11:52.000Z",
+        "description": "番茄\n20↑🇨🇳\nサブ垢です \n本垢→@moonwind_umi\n推しは❄️🍼・💰・🌲⭐🌲・🍬・🌾・🍊！雑談や感想を垂れ流すアカウントです。たまにFAも上げます✨相互フォロー大大歓迎✨\n呼び方は何でもOKです！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "moonwind_umi"
+              }
+            ]
+          }
+        },
+        "id": "1665285141676314629",
+        "name": "雫み",
+        "pinned_tweet_id": "2071989632590594299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060161091154726912/5ERHp25m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 245,
+          "like_count": 6913,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3045
+        },
+        "url": "",
+        "username": "shizu_kumi14",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2084574769962508678",
+    "created_at": "2026-08-04T13:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084633592404255196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771390137882247168",
+          "start": 0,
+          "username": "gin_rokujo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084633592404255196",
+    "in_reply_to_user_id": "1771390137882247168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084574769962508678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gin_rokujo 银酱晚上好～(￣▽￣～)~恭喜发售感谢通知✨💓💓是这样的丈夫大人……好喜欢这种类型啊🥺💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2084574769962508678",
+        "created_at": "2026-08-04T13:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084633592404255196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771390137882247168",
+              "start": 0,
+              "username": "gin_rokujo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084633592404255196",
+        "in_reply_to_user_id": "1771390137882247168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084574769962508678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gin_rokujo 银酱晚上好～(￣▽￣～)~恭喜发售感谢通知✨💓💓是这样的丈夫大人……好喜欢这种类型啊🥺💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771390137882247168",
+        "conversation_id": "2084574769962508678",
+        "created_at": "2026-08-04T09:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084574769962508678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tenten_sha/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/tenten_sha/status/2083206046567616670",
+              "start": 147,
+              "url": "https://t.co/13I86MXFcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084574769962508678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "天々赦様より発売開始されております…‼️\n\n旦那様の…超一流！セレブちん⚪︎で愛液したたる♡よちよち愛⚪︎メイド生活～事あるごとに呼びつけられて『ガン反り⚪︎根でお仕置きペンペン♪』～\n\n佐山　隆二(さやま　りゅうじ)君のお声を担当させていただきました‼️\n\n失敗するたびに呼び付けられます。\n何なら失敗するのを待っているため、監視されているのかもしれません。\n蟻地獄のようなやつです。\nチャンスを常に伺っております。\n若くして社長業を生きていく上で培ってきた才能をふんだんに使い倒しております。\n\n（…逃げて）\n\nよろしくお願いいたします‼️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7554,
+          "like_count": 189,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083206046567616670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天々赦様より発売開始されております…‼️\n\n旦那様の…超一流！セレブちん⚪︎で愛液したたる♡よちよち愛⚪︎メイド生活～事あるごとに呼びつけられて『ガン反り⚪︎根でお仕置きペンペン♪』～\n\n佐山　隆二(さやま　りゅうじ)君のお声を担当させていただきました‼️\n\n失敗するたびに呼び付けられます。 https://t.co/13I86MXFcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 212,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T04:15:11.000Z",
+        "description": "声のお仕事をさせていただいております。無断転載やスクリーンショットはご遠慮ください。 アイコン制作者様→ @oriyu_sun ボイスサンプル→ https://t.co/x5Zrhb3qVM ※ 第三者による無断著作物利用は禁止いたします。未成年の方の閲覧、フォローはご遠慮ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "oriyu_sun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/pawWa",
+                "end": 96,
+                "expanded_url": "https://x.gd/pawWa",
+                "start": 73,
+                "url": "https://t.co/x5Zrhb3qVM"
+              }
+            ]
+          }
+        },
+        "id": "1771390137882247168",
+        "name": "六条銀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855463529404567552/4HMjWocU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12550,
+          "following_count": 175,
+          "like_count": 13538,
+          "listed_count": 40,
+          "media_count": 63,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "gin_rokujo",
+        "verified": false
+      }
+    ]
+  }
+}

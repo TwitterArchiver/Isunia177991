@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2083042229174866093",
+    "created_at": "2026-07-31T18:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083262570182639677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554321536273641472",
+          "start": 0,
+          "username": "taotieqiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083262570182639677",
+    "in_reply_to_user_id": "1554321536273641472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083252240291373524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taotieqiyu 加入到#原创文案 里👏🏻👏🏻👏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2083042229174866093",
+        "created_at": "2026-07-31T18:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083262570182639677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554321536273641472",
+              "start": 0,
+              "username": "taotieqiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083262570182639677",
+        "in_reply_to_user_id": "1554321536273641472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083252240291373524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taotieqiyu 加入到#原创文案 里👏🏻👏🏻👏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554321536273641472",
+        "conversation_id": "2083042229174866093",
+        "created_at": "2026-07-31T18:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083252240291373524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083252240291373524",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083042229174866093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 你可以当杯子吗？因为我要起飞了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 190,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T04:21:56.000Z",
+        "description": "半饕餮半猫族的赛博神兽柒羽墨（其实只是个测试实验品）\n自设在完善中欢迎提意见\n中文（简体常用）\n仅在bilibili（名称：柒片羽毛）和推特上面活动（还没开始搞绘画什么的，所以别太期待）",
+        "id": "1554321536273641472",
+        "name": "柒羽墨ink feathers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554321646600671232/bBNbZd5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 279,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "taotieqiyu",
+        "verified": false
+      }
+    ]
+  }
+}
