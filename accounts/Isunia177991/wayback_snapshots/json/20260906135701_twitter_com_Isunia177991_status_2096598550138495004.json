@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2096537705018757290",
+    "created_at": "2026-09-06T13:57:01.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096598550138495004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754185370772643840",
+          "start": 0,
+          "username": "Sakin_OVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096598550138495004",
+    "in_reply_to_user_id": "1754185370772643840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096537705018757290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakin_OVO 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1629,
+        "media_key": "3_2096537696617508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhl7VkaMAANceE.jpg",
+        "width": 1650
+      },
+      {
+        "height": 1627,
+        "media_key": "3_2096537696625954816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhl7VmbEAAG_Bw.jpg",
+        "width": 1655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2096537705018757290",
+        "created_at": "2026-09-06T13:57:01.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096598550138495004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754185370772643840",
+              "start": 0,
+              "username": "Sakin_OVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096598550138495004",
+        "in_reply_to_user_id": "1754185370772643840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096537705018757290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakin_OVO 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096537696617508864",
+            "3_2096537696625954816"
+          ]
+        },
+        "author_id": "1754185370772643840",
+        "conversation_id": "2096537705018757290",
+        "created_at": "2026-09-06T09:55:15.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096537705018757290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "富永修平"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pljlu9O2k",
+              "end": 95,
+              "expanded_url": "https://x.com/Sakin_OVO/status/2096537705018757290/photo/1",
+              "media_key": "3_2096537696617508864",
+              "start": 72,
+              "url": "https://t.co/8pljlu9O2k"
+            },
+            {
+              "display_url": "pic.x.com/8pljlu9O2k",
+              "end": 95,
+              "expanded_url": "https://x.com/Sakin_OVO/status/2096537705018757290/photo/1",
+              "media_key": "3_2096537696625954816",
+              "start": 72,
+              "url": "https://t.co/8pljlu9O2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096537705018757290",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096537696617508864"
+          },
+          {
+            "media_key": "3_2096537696625954816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "衣服上的图案是🦭（大概）（苦笑）\n\n電車乗り間違えて、帰りに🦦さんの上で寝ちゃったww\n\nよしよしよし—🫳🏻🫳🏻🫳🏻🫳🏻🦦\n\n#富永修平 さん https://t.co/8pljlu9O2k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096598550138495004",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 269,
+          "like_count": 2451,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-04T16:49:28.000Z",
+        "description": "25↑ 不在意他人属性 会回关乙抓妹\n推し三桥さん🌉富永さん🦭\n过激发言、贴脸会拉黑 未授权禁搬运🚫",
+        "id": "1754185370772643840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096571499738288145",
+        "name": "左锦@Sakin",
+        "pinned_tweet_id": "2088966868484960312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754185370772643840/1787452862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091005275616739328/_XcIwWdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 158,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "Sakin_OVO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

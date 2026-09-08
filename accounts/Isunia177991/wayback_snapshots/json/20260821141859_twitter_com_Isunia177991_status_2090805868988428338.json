@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2090802892060172675",
+    "created_at": "2026-08-21T14:18:59.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090805868988428338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066745172009111552",
+          "start": 0,
+          "username": "Nuo_011345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090805868988428338",
+    "in_reply_to_user_id": "2066745172009111552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090802892060172675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuo_011345 我拖延症时候……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_2090802878009245696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQGI9cbAAAH00-.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2090802892060172675",
+        "created_at": "2026-08-21T14:18:59.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090805868988428338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066745172009111552",
+              "start": 0,
+              "username": "Nuo_011345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090805868988428338",
+        "in_reply_to_user_id": "2066745172009111552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090802892060172675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuo_011345 我拖延症时候……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090802878009245696"
+          ]
+        },
+        "author_id": "2066745172009111552",
+        "conversation_id": "2090802892060172675",
+        "created_at": "2026-08-21T14:07:09.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090802892060172675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCidfuGbK0",
+              "end": 40,
+              "expanded_url": "https://x.com/Nuo_011345/status/2090802892060172675/photo/1",
+              "media_key": "3_2090802878009245696",
+              "start": 17,
+              "url": "https://t.co/bCidfuGbK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090802892060172675",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090802878009245696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定这么多闹钟也没用 现在还没去洗 https://t.co/bCidfuGbK0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090805868988428338",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 257,
+          "like_count": 1927,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T04:53:02.000Z",
+        "description": "20↑🇨🇳｜日常｜胡言乱语｜转生饭@wbzdA_YovoY\n\n天天开心⋆ Z☡zᶻ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "wbzdA_YovoY"
+              }
+            ]
+          }
+        },
+        "id": "2066745172009111552",
+        "is_identity_verified": false,
+        "location": "祝你愉快",
+        "most_recent_tweet_id": "2090803713657208886",
+        "name": "我不知豆阿_",
+        "pinned_tweet_id": "2067162526681571395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066745172009111552/1781585911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066754905747132417/gn0awuj2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 187,
+          "like_count": 9616,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2448
+        },
+        "url": "",
+        "username": "Nuo_011345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

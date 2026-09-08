@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2088112162745278604",
+    "created_at": "2026-08-14T04:10:35.000Z",
+    "display_text_range": [
+      11,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088116047639630092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057275172915417088",
+          "start": 0,
+          "username": "Yumoomooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088116047639630092",
+    "in_reply_to_user_id": "2057275172915417088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088112162745278604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumoomooo （悄悄举手）我有时候也会觉得很别扭，但最后还是用中文发了（有时候会觉得好尴尬……）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2088112162745278604",
+        "created_at": "2026-08-14T04:10:35.000Z",
+        "display_text_range": [
+          11,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088116047639630092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057275172915417088",
+              "start": 0,
+              "username": "Yumoomooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088116047639630092",
+        "in_reply_to_user_id": "2057275172915417088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088112162745278604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumoomooo （悄悄举手）我有时候也会觉得很别扭，但最后还是用中文发了（有时候会觉得好尴尬……）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057275172915417088",
+        "conversation_id": "2088112162745278604",
+        "created_at": "2026-08-14T03:55:09.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088112162745278604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088112162745278604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家给推们回复评论的时候用中文还是日文...怕翻译器日文很奇怪扭曲意思，又怕发中文会不礼貌...这么纠结着...就变成了有时发中文有时发日文😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088116047639630092",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 208,
+          "like_count": 1161,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T01:51:11.000Z",
+        "description": "🇨🇳 | 20↑丨Evangelist、主水Ash丨\n偶尔发一些碎碎念希望没有打扰到你们\n無言フォロー失礼しました",
+        "id": "2057275172915417088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088113402438951190",
+        "name": "Yu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057275172915417088/1779328672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066193344955572224/Se2twf9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 63,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "Yumoomooo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

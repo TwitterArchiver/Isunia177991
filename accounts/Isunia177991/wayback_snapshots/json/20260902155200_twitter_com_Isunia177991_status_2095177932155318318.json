@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2095175210375016902",
+    "created_at": "2026-09-02T15:52:00.000Z",
+    "display_text_range": [
+      15,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095177932155318318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997329970453188608",
+          "start": 0,
+          "username": "yuuuuri135093"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095177932155318318",
+    "in_reply_to_user_id": "1997329970453188608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095177603456061560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuuuri135093 （啊…这样的话…这里简直是天堂吧！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2095175210375016902",
+        "created_at": "2026-09-02T15:52:00.000Z",
+        "display_text_range": [
+          15,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095177932155318318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997329970453188608",
+              "start": 0,
+              "username": "yuuuuri135093"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095177932155318318",
+        "in_reply_to_user_id": "1997329970453188608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095177603456061560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuuuri135093 （啊…这样的话…这里简直是天堂吧！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997329970453188608",
+        "conversation_id": "2095175210375016902",
+        "created_at": "2026-09-02T15:50:41.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095177603456061560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095177603456061560",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095175210375016902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 如果上天能给我下发十亿点dl点数就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095177932155318318",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 266,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-06T15:39:56.000Z",
+        "description": "柚子\\柚柚\n🔥🪷🤍｜💜🔪🖤｜\n日本語が苦手で、翻訳機を使っています",
+        "id": "1997329970453188608",
+        "is_identity_verified": false,
+        "location": "☃❄️",
+        "most_recent_tweet_id": "2095177603456061560",
+        "name": "Yuzuki",
+        "pinned_tweet_id": "2020786234235175330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997329970453188608/1775699185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042056257679585280/7KlvlQrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 109,
+          "like_count": 4159,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1540
+        },
+        "url": "",
+        "username": "yuuuuri135093",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

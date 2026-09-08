@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2089755343278801282",
+    "created_at": "2026-08-19T13:25:34.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090067653365055945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1601389362142277633",
+          "start": 0,
+          "username": "yuki_kirihana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090067653365055945",
+    "in_reply_to_user_id": "1601389362142277633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089755343278801282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_kirihana 哦不（摸摸）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2089755343278801282",
+        "created_at": "2026-08-19T13:25:34.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090067653365055945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1601389362142277633",
+              "start": 0,
+              "username": "yuki_kirihana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090067653365055945",
+        "in_reply_to_user_id": "1601389362142277633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089755343278801282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_kirihana 哦不（摸摸）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601389362142277633",
+        "conversation_id": "2089755343278801282",
+        "created_at": "2026-08-18T16:44:34.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089755343278801282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089755343278801282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 874,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我传家宝那条招来了好多傻逼…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090067653365055945",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 252,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-10T01:32:40.000Z",
+        "description": "19︱家有萌猪︱碎碎念︱DM◎︱翻訳機使用、不自然だったらすみません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki_57314",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki_57314",
+                "start": 0,
+                "url": "https://t.co/9gQQFuz0vJ"
+              }
+            ]
+          }
+        },
+        "id": "1601389362142277633",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090053346413752786",
+        "name": "Yuki",
+        "pinned_tweet_id": "2049793479908409571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601389362142277633/1767808987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047731475962032129/wmGYglzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 137,
+          "like_count": 23832,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/9gQQFuz0vJ",
+        "username": "yuki_kirihana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

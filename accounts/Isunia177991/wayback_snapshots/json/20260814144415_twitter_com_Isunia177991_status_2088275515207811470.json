@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088275407783247872",
+        "3_2088275443330023425",
+        "3_2088275479308722177"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "conversation_id": "2088275515207811470",
+    "created_at": "2026-08-14T14:44:15.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088275515207811470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "梦女"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "稿件展示"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0iGSWIJsd",
+          "end": 77,
+          "expanded_url": "https://x.com/Isunia177991/status/2088275515207811470/photo/1",
+          "media_key": "3_2088275407783247872",
+          "start": 54,
+          "url": "https://t.co/h0iGSWIJsd"
+        },
+        {
+          "display_url": "pic.x.com/h0iGSWIJsd",
+          "end": 77,
+          "expanded_url": "https://x.com/Isunia177991/status/2088275515207811470/photo/1",
+          "media_key": "3_2088275443330023425",
+          "start": 54,
+          "url": "https://t.co/h0iGSWIJsd"
+        },
+        {
+          "display_url": "pic.x.com/h0iGSWIJsd",
+          "end": 77,
+          "expanded_url": "https://x.com/Isunia177991/status/2088275515207811470/photo/1",
+          "media_key": "3_2088275479308722177",
+          "start": 54,
+          "url": "https://t.co/h0iGSWIJsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088275515207811470",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088275407783247872"
+      },
+      {
+        "media_key": "3_2088275443330023425"
+      },
+      {
+        "media_key": "3_2088275479308722177"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "‼️梦向注意‼️不喜欢请划走🐇🌸\np3是官方设定🐕🐇\n#梦女 #稿件展示 \n解释权归五字女所有|･ω･｀) https://t.co/h0iGSWIJsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088275407783247872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsLa1IawAAZdsD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088275443330023425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsLc5jbgAEPWjb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2930,
+        "media_key": "3_2088275479308722177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsLe_la4AE5fhC.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088275407783247872",
+            "3_2088275443330023425",
+            "3_2088275479308722177"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "conversation_id": "2088275515207811470",
+        "created_at": "2026-08-14T14:44:15.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088275515207811470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "梦女"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "稿件展示"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0iGSWIJsd",
+              "end": 77,
+              "expanded_url": "https://x.com/Isunia177991/status/2088275515207811470/photo/1",
+              "media_key": "3_2088275407783247872",
+              "start": 54,
+              "url": "https://t.co/h0iGSWIJsd"
+            },
+            {
+              "display_url": "pic.x.com/h0iGSWIJsd",
+              "end": 77,
+              "expanded_url": "https://x.com/Isunia177991/status/2088275515207811470/photo/1",
+              "media_key": "3_2088275443330023425",
+              "start": 54,
+              "url": "https://t.co/h0iGSWIJsd"
+            },
+            {
+              "display_url": "pic.x.com/h0iGSWIJsd",
+              "end": 77,
+              "expanded_url": "https://x.com/Isunia177991/status/2088275515207811470/photo/1",
+              "media_key": "3_2088275479308722177",
+              "start": 54,
+              "url": "https://t.co/h0iGSWIJsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088275515207811470",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088275407783247872"
+          },
+          {
+            "media_key": "3_2088275443330023425"
+          },
+          {
+            "media_key": "3_2088275479308722177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "‼️梦向注意‼️不喜欢请划走🐇🌸\np3是官方设定🐕🐇\n#梦女 #稿件展示 \n解释权归五字女所有|･ω･｀) https://t.co/h0iGSWIJsd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088275515207811470",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 212,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

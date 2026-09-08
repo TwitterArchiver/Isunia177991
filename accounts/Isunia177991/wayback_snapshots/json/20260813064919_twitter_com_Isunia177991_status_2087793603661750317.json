@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "card_uri": "https://t.co/8WLi2xg09n",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418355665039368194",
+          "name": "DLsite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418355665039368194",
+          "name": "DLsite"
+        }
+      }
+    ],
+    "conversation_id": "2087793603661750317",
+    "created_at": "2026-08-13T06:49:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087793603661750317"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 128,
+          "tag": "DLsite"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063652126761594880",
+          "start": 3,
+          "username": "lxnsmg36l"
+        }
+      ],
+      "urls": [
+        {
+          "description": "DLsiteチュートリアルでDLsiteの使い方をマスターしよう♪7つのミッションをクリアでクーポン獲得！きみもDLsiteマスターになろう！",
+          "display_url": "dlsite.jp/6t4ipqo",
+          "end": 127,
+          "expanded_url": "https://dlsite.jp/6t4ipqo",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2085579431222067200/UA8C-Ifb?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085579431222067200/UA8C-Ifb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "DLsiteチュートリアル | DLsite",
+          "unwound_url": "https://www.dlsite.com/home/campaign/tutorial?utm_source=twitter&utm_medium=social-media&utm_campaign=tutorial&utm_content=tutorial-clear&cmd=clear",
+          "url": "https://t.co/8WLi2xg09n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087793603661750317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087755833459511678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxnsmg36l: DLsiteチュートリアルクリア！報酬のクーポン獲得！\nこれできみもDLsiteマスターだ！\n\n全てのミッションを達成した全員にクーポンプレゼント！\nきみの挑戦を待っている！\n https://t.co/8WLi2xg09n #DLsite #DL…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "card_uri": "https://t.co/8WLi2xg09n",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          }
+        ],
+        "conversation_id": "2087793603661750317",
+        "created_at": "2026-08-13T06:49:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087793603661750317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 128,
+              "tag": "DLsite"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063652126761594880",
+              "start": 3,
+              "username": "lxnsmg36l"
+            }
+          ],
+          "urls": [
+            {
+              "description": "DLsiteチュートリアルでDLsiteの使い方をマスターしよう♪7つのミッションをクリアでクーポン獲得！きみもDLsiteマスターになろう！",
+              "display_url": "dlsite.jp/6t4ipqo",
+              "end": 127,
+              "expanded_url": "https://dlsite.jp/6t4ipqo",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2085579431222067200/UA8C-Ifb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085579431222067200/UA8C-Ifb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "DLsiteチュートリアル | DLsite",
+              "unwound_url": "https://www.dlsite.com/home/campaign/tutorial?utm_source=twitter&utm_medium=social-media&utm_campaign=tutorial&utm_content=tutorial-clear&cmd=clear",
+              "url": "https://t.co/8WLi2xg09n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087793603661750317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087755833459511678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxnsmg36l: DLsiteチュートリアルクリア！報酬のクーポン獲得！\nこれできみもDLsiteマスターだ！\n\n全てのミッションを達成した全員にクーポンプレゼント！\nきみの挑戦を待っている！\n https://t.co/8WLi2xg09n #DLsite #DL…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063652126761594880",
+        "card_uri": "https://t.co/8WLi2xg09n",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          }
+        ],
+        "conversation_id": "2087755833459511678",
+        "created_at": "2026-08-13T04:19:13.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087755833459511678"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "DLsite"
+            },
+            {
+              "end": 135,
+              "start": 121,
+              "tag": "DLsiteチュートリアル"
+            }
+          ],
+          "urls": [
+            {
+              "description": "DLsiteチュートリアルでDLsiteの使い方をマスターしよう♪7つのミッションをクリアでクーポン獲得！きみもDLsiteマスターになろう！",
+              "display_url": "dlsite.jp/6t4ipqo",
+              "end": 112,
+              "expanded_url": "https://dlsite.jp/6t4ipqo",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2085579431222067200/UA8C-Ifb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085579431222067200/UA8C-Ifb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "DLsiteチュートリアル | DLsite",
+              "unwound_url": "https://www.dlsite.com/home/campaign/tutorial?utm_source=twitter&utm_medium=social-media&utm_campaign=tutorial&utm_content=tutorial-clear&cmd=clear",
+              "url": "https://t.co/8WLi2xg09n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087755833459511678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 403,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "DLsiteチュートリアルクリア！報酬のクーポン獲得！\nこれできみもDLsiteマスターだ！\n\n全てのミッションを達成した全員にクーポンプレゼント！\nきみの挑戦を待っている！\n https://t.co/8WLi2xg09n #DLsite #DLsiteチュートリアル"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087793603661750317",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 209,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T16:01:08.000Z",
+        "description": "20↑🇨🇳主要看乙抓相关/日语学习中\n無言フォロー失礼します！",
+        "id": "2063652126761594880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087780422453465250",
+        "name": "鸟鸟教大祭司",
+        "pinned_tweet_id": "2081401497649299626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063652126761594880/1783869929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085400209576873985/xGbqAC1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 163,
+          "like_count": 2983,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "lxnsmg36l",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

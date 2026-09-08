@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2089961908061503529",
+    "created_at": "2026-08-19T09:39:52.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090010850866422239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983216087937474560",
+          "start": 0,
+          "username": "Xiao43600268523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090010850866422239",
+    "in_reply_to_user_id": "1983216087937474560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089961908061503529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiao43600268523 好好笑……但是画的好帅啊🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13708,
+        "height": 734,
+        "media_key": "13_2089961783234854912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089961783234854912/img/gjz-Jg-4e_upbnAI.jpg",
+        "public_metrics": {
+          "view_count": 93
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089961783234854912/vid/avc1/320x326/hAdGX6Xk8Z6LC8Vp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089961783234854912/vid/avc1/480x488/bdTiLdN0QZQ6FeXJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089961783234854912/vid/avc1/720x734/gjjR0yWvVvqM85mY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089961783234854912/pl/coMIAYwEL4IgdstM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2089961908061503529",
+        "created_at": "2026-08-19T09:39:52.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090010850866422239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983216087937474560",
+              "start": 0,
+              "username": "Xiao43600268523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090010850866422239",
+        "in_reply_to_user_id": "1983216087937474560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089961908061503529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiao43600268523 好好笑……但是画的好帅啊🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089961783234854912"
+          ]
+        },
+        "author_id": "1983216087937474560",
+        "conversation_id": "2089961908061503529",
+        "created_at": "2026-08-19T06:25:23.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089961908061503529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAPLpwD98x",
+              "end": 70,
+              "expanded_url": "https://x.com/Xiao43600268523/status/2089961908061503529/video/1",
+              "media_key": "13_2089961783234854912",
+              "start": 47,
+              "url": "https://t.co/nAPLpwD98x"
+            },
+            {
+              "display_url": "x.com/xiao4360026852…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/xiao43600268523/status/2089922270752092173",
+              "start": 71,
+              "url": "https://t.co/xR9APNMJp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089961908061503529",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089961783234854912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089922270752092173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底笑了多久才敢发出来的♪(´ε｀ )\n大狗狗～ 是狼！\n甚至为此开了会员∠( ᐛ 」∠)＿ https://t.co/nAPLpwD98x https://t.co/xR9APNMJp4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090010850866422239",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 248,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-28T16:55:59.000Z",
+        "description": "千早雨凪24♒️六条銀重度依赖💖\n\n🦮いぬ 名前 土豆（ポテト🥔",
+        "id": "1983216087937474560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090006409215901819",
+        "name": "雨",
+        "pinned_tweet_id": "2059202058461594002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983216087937474560/1786876137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038592563540828160/_ghx1Sym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 89,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "Xiao43600268523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

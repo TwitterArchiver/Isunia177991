@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088202617537400832",
+        "3_2088202635379941376"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088202657924358237",
+    "created_at": "2026-08-14T09:54:45.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088202657924358237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FedeKed8tV",
+          "end": 54,
+          "expanded_url": "https://x.com/Isunia177991/status/2088202657924358237/photo/1",
+          "media_key": "3_2088202617537400832",
+          "start": 31,
+          "url": "https://t.co/FedeKed8tV"
+        },
+        {
+          "display_url": "pic.x.com/FedeKed8tV",
+          "end": 54,
+          "expanded_url": "https://x.com/Isunia177991/status/2088202657924358237/photo/1",
+          "media_key": "3_2088202635379941376",
+          "start": 31,
+          "url": "https://t.co/FedeKed8tV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088202657924358237",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088202617537400832"
+      },
+      {
+        "media_key": "3_2088202635379941376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我做了新的自介|･ω･｀) 如果可以麻烦转转!想和大家互关♡ https://t.co/FedeKed8tV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2088202617537400832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrJN4VbkAAQI4y.jpg",
+        "width": 1024
+      },
+      {
+        "height": 3468,
+        "media_key": "3_2088202635379941376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrJO6zbIAAYHBy.jpg",
+        "width": 3468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088202617537400832",
+            "3_2088202635379941376"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088202657924358237",
+        "created_at": "2026-08-14T09:54:45.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088202657924358237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FedeKed8tV",
+              "end": 54,
+              "expanded_url": "https://x.com/Isunia177991/status/2088202657924358237/photo/1",
+              "media_key": "3_2088202617537400832",
+              "start": 31,
+              "url": "https://t.co/FedeKed8tV"
+            },
+            {
+              "display_url": "pic.x.com/FedeKed8tV",
+              "end": 54,
+              "expanded_url": "https://x.com/Isunia177991/status/2088202657924358237/photo/1",
+              "media_key": "3_2088202635379941376",
+              "start": 31,
+              "url": "https://t.co/FedeKed8tV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088202657924358237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088202617537400832"
+          },
+          {
+            "media_key": "3_2088202635379941376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做了新的自介|･ω･｀) 如果可以麻烦转转!想和大家互关♡ https://t.co/FedeKed8tV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088202657924358237",
+        "name": "♡†Isuna†♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 210,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

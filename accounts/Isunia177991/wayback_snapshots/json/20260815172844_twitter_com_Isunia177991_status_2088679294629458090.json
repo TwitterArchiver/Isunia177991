@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2088679294629458090",
+    "created_at": "2026-08-15T17:28:44.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088679294629458090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7xuazo/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/7xuazo/status/2088490904009253116",
+          "start": 24,
+          "url": "https://t.co/dW8wuttgxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088679294629458090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088490904009253116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想这样吃一次马卡龙。。但是会胖的很厉害啊…… https://t.co/dW8wuttgxw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088490896631508992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvPZ7pbsAAUXNR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088490896350420992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvPZ6maoAA2T1u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2088679294629458090",
+        "created_at": "2026-08-15T17:28:44.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088679294629458090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7xuazo/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/7xuazo/status/2088490904009253116",
+              "start": 24,
+              "url": "https://t.co/dW8wuttgxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088679294629458090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088490904009253116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想这样吃一次马卡龙。。但是会胖的很厉害啊…… https://t.co/dW8wuttgxw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088490896631508992",
+            "3_2088490896350420992"
+          ]
+        },
+        "author_id": "1932268194796064768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088490904009253116",
+        "created_at": "2026-08-15T05:00:08.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088490904009253116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KBNDUs094",
+              "end": 122,
+              "expanded_url": "https://x.com/7xuazo/status/2088490904009253116/photo/1",
+              "media_key": "3_2088490896631508992",
+              "start": 99,
+              "url": "https://t.co/2KBNDUs094"
+            },
+            {
+              "display_url": "pic.x.com/2KBNDUs094",
+              "end": 122,
+              "expanded_url": "https://x.com/7xuazo/status/2088490904009253116/photo/1",
+              "media_key": "3_2088490896350420992",
+              "start": 99,
+              "url": "https://t.co/2KBNDUs094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088490904009253116",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2088490896631508992"
+          },
+          {
+            "media_key": "3_2088490896350420992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 980,
+          "impression_count": 469412,
+          "like_count": 6342,
+          "quote_count": 1343,
+          "reply_count": 2,
+          "retweet_count": 1496
+        },
+        "reply_settings": "everyone",
+        "text": "여러분 ? 이거 진짜 미쳤습니다 \n근데 먹기전에 마카롱을 냉동실에 좀 넣어놨다가 \n먹어야할 듯 .. 나 밖에 내놨다가 먹엇더니\n우유에 얼음타도 금방 녹아서 우유가 핑크색댐 ㅎㅎ https://t.co/2KBNDUs094"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088679294629458090",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 224,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T02:47:01.000Z",
+        "description": "",
+        "id": "1932268194796064768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088660384454688984",
+        "name": "🍒",
+        "pinned_tweet_id": "1978299942671167771",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053447954951020544/oU7mVhX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 78,
+          "like_count": 1054,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "7xuazo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

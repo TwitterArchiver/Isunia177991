@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088157963425021952"
+      ]
+    },
+    "author_id": "1763450818886606848",
+    "conversation_id": "2088129663680090444",
+    "created_at": "2026-08-14T06:57:12.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088157977928949990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898711479442104320",
+          "start": 0,
+          "username": "HCCCCH0902"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A19WVmfOMl",
+          "end": 44,
+          "expanded_url": "https://x.com/Isunia177991/status/2088157977928949990/photo/1",
+          "media_key": "3_2088157963425021952",
+          "start": 21,
+          "url": "https://t.co/A19WVmfOMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088157977928949990",
+    "in_reply_to_user_id": "1898711479442104320",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2088157963425021952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088157592715755626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCCCCH0902 ～(￣▽￣～)~ https://t.co/A19WVmfOMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 357,
+        "media_key": "3_2088157963425021952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqgmqzaAAA3VzZ.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088157963425021952"
+          ]
+        },
+        "author_id": "1763450818886606848",
+        "conversation_id": "2088129663680090444",
+        "created_at": "2026-08-14T06:57:12.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088157977928949990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898711479442104320",
+              "start": 0,
+              "username": "HCCCCH0902"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A19WVmfOMl",
+              "end": 44,
+              "expanded_url": "https://x.com/Isunia177991/status/2088157977928949990/photo/1",
+              "media_key": "3_2088157963425021952",
+              "start": 21,
+              "url": "https://t.co/A19WVmfOMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088157977928949990",
+        "in_reply_to_user_id": "1898711479442104320",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2088157963425021952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088157592715755626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCCCCH0902 ～(￣▽￣～)~ https://t.co/A19WVmfOMl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898711479442104320",
+        "conversation_id": "2088129663680090444",
+        "created_at": "2026-08-14T06:55:40.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088157592715755626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088157592715755626",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088157378768167134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 我这里需要三桥渡那张图：促销好可怕，会让人想一直买！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088157977928949990",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 208,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T12:24:41.000Z",
+        "description": "念我名字嘴角可以上扬2秒钟🤗\n💗最喜欢的CV是六条银和主水ash\n是话特别多特别多的一个人🫡\n同好关注随意 看到了都会回关的呢🤓",
+        "id": "1898711479442104320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088157592715755626",
+        "name": "小柴柴胡",
+        "pinned_tweet_id": "2052741565634986314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898711479442104320/1769347723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930337575094628353/BCPPY8Sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 476,
+          "like_count": 6950,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 3319
+        },
+        "url": "",
+        "username": "HCCCCH0902",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

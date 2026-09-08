@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2087711099877728591",
+    "created_at": "2026-08-13T05:29:38.000Z",
+    "display_text_range": [
+      12,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087773551004934445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771390137882247168",
+          "start": 0,
+          "username": "gin_rokujo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087773551004934445",
+    "in_reply_to_user_id": "1771390137882247168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087711099877728591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gin_rokujo 早上好！恭喜发售呀💕最期待的一篇（从上个月就开始期待了呢）(´▽｀)ノ♪因为新颖的题材和激烈（？）刺激的感受非常喜欢这一本💓非常感谢通知！这种类型请多多制作吧："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2087711099877728591",
+        "created_at": "2026-08-13T05:29:38.000Z",
+        "display_text_range": [
+          12,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087773551004934445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771390137882247168",
+              "start": 0,
+              "username": "gin_rokujo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087773551004934445",
+        "in_reply_to_user_id": "1771390137882247168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087711099877728591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gin_rokujo 早上好！恭喜发售呀💕最期待的一篇（从上个月就开始期待了呢）(´▽｀)ノ♪因为新颖的题材和激烈（？）刺激的感受非常喜欢这一本💓非常感谢通知！这种类型请多多制作吧："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771390137882247168",
+        "conversation_id": "2087711099877728591",
+        "created_at": "2026-08-13T01:21:28.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087711099877728591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/platinumxplus/…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/platinumxplus/status/2087562252723626056",
+              "start": 114,
+              "url": "https://t.co/YlxvP9EqCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087711099877728591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "Platinum✦様より発売開始されました‼️\n\n【リアルホラー×狂愛監禁】おかし愛──ただいま、君の彼氏はもう×んでいる。\n\n神山竜一君のお声を担当させていただきました‼️\n\n真面目な性格です‼️\n弟のことは見下してます‼️\n\nだって繝?→縺励菴懈・ュセ玲э縺ェ縺溘a縲√ヲ繝ュ繧、繝ウ縺ョ逶」遖∝?エ謇?縺ョ貅い繝ェ菴懊蠎▲縺ヲ縺?◆縲\n諤ァ縺ョ關蛹?ョケ蜉帙?縺ゅk逵ァ譬シ繧呈シ斐\n\nよろしくお願いいたします‼️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6415,
+          "like_count": 163,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087562252723626056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Platinum✦様より発売開始されました‼️\n\n【リアルホラー×狂愛監禁】おかし愛──ただいま、君の彼氏はもう×んでいる。\n\n神山竜一君のお声を担当させていただきました‼️\n\n真面目な性格です‼️\n弟のことは見下してます‼️ https://t.co/YlxvP9EqCX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087773551004934445",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 209,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-23T04:15:11.000Z",
+        "description": "声のお仕事をさせていただいております。無断転載やスクリーンショットはご遠慮ください。 アイコン制作者様→ @oriyu_sun ボイスサンプル→ https://t.co/x5Zrhb3qVM ※ 第三者による無断著作物利用は禁止いたします。未成年の方の閲覧、フォローはご遠慮ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "oriyu_sun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/pawWa",
+                "end": 96,
+                "expanded_url": "https://x.gd/pawWa",
+                "start": 73,
+                "url": "https://t.co/x5Zrhb3qVM"
+              }
+            ]
+          }
+        },
+        "id": "1771390137882247168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087711099877728591",
+        "name": "六条銀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855463529404567552/4HMjWocU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12623,
+          "following_count": 176,
+          "like_count": 13531,
+          "listed_count": 42,
+          "media_count": 63,
+          "tweet_count": 1887
+        },
+        "url": "",
+        "username": "gin_rokujo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2087945216179486791",
+    "created_at": "2026-08-14T02:49:15.000Z",
+    "display_text_range": [
+      12,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088095577087365291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898711479442104320",
+          "start": 0,
+          "username": "HCCCCH0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088095577087365291",
+    "in_reply_to_user_id": "1898711479442104320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088083142200659995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCCCCH0902 是富永的本(´▽｀)ノ♪那个封面没显示出来银酱又说自己有出演的角色 但是好像只有日配我就还没买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2087945216179486791",
+        "created_at": "2026-08-14T02:49:15.000Z",
+        "display_text_range": [
+          12,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088095577087365291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898711479442104320",
+              "start": 0,
+              "username": "HCCCCH0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088095577087365291",
+        "in_reply_to_user_id": "1898711479442104320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088083142200659995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCCCCH0902 是富永的本(´▽｀)ノ♪那个封面没显示出来银酱又说自己有出演的角色 但是好像只有日配我就还没买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898711479442104320",
+        "conversation_id": "2087945216179486791",
+        "created_at": "2026-08-14T01:59:50.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088083142200659995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088083142200659995",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087945216179486791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 哈哈哈哈所以是谁的呀？好听吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088095577087365291",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 208,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T12:24:41.000Z",
+        "description": "念我名字嘴角可以上扬2秒钟🤗",
+        "id": "1898711479442104320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088095175407218738",
+        "name": "小柴柴胡",
+        "pinned_tweet_id": "2052741565634986314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898711479442104320/1769347723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930337575094628353/BCPPY8Sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 475,
+          "like_count": 6840,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 3277
+        },
+        "url": "",
+        "username": "HCCCCH0902",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2092310627910111483",
+    "created_at": "2026-08-26T03:28:24.000Z",
+    "display_text_range": [
+      10,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092454086717370751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1611839338404532225",
+          "start": 0,
+          "username": "ninimng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092454086717370751",
+    "in_reply_to_user_id": "1611839338404532225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092313202273181967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninimng2 nainai也是！！！💕💕💕一起加油嘿嘿(´▽｀)ノ♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2092310627910111483",
+        "created_at": "2026-08-26T03:28:24.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092454086717370751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611839338404532225",
+              "start": 0,
+              "username": "ninimng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092454086717370751",
+        "in_reply_to_user_id": "1611839338404532225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092313202273181967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninimng2 nainai也是！！！💕💕💕一起加油嘿嘿(´▽｀)ノ♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611839338404532225",
+        "conversation_id": "2092310627910111483",
+        "created_at": "2026-08-25T18:08:35.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092313202273181967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092313202273181967",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092310627910111483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 今天也辛苦啦૮๑′0`๑ა！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092454086717370751",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 263,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-07T21:37:21.000Z",
+        "description": "come from China☆\n魈梦女注意！！原已退坑只推角色不玩游戏\n乙抓:不知火蓮🪷🤍，evangelist🌈\n会发发牢骚！说一些乱七八糟的东西\n欢迎互关呀ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n中国🇨🇳からは時々日常と絵画を送ります！ 一般的には翻訳ソフトを使います❤️",
+        "id": "1611839338404532225",
+        "is_identity_verified": false,
+        "location": "海的那边  大地中原",
+        "most_recent_tweet_id": "2092320601633640658",
+        "name": "NaiNai☆🐶",
+        "pinned_tweet_id": "2085665770319569188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611839338404532225/1786641504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082874218811949056/Xwqmh0EK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 71,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "ninimng2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

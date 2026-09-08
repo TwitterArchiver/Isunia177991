@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2092562679450013922",
+    "created_at": "2026-08-26T13:29:41.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092605403041591473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047860427107803136",
+          "start": 0,
+          "username": "Loyi0728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092605403041591473",
+    "in_reply_to_user_id": "2047860427107803136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092562679450013922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loyi0728 好可爱！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092562668515364864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpGqP8aEAA6FId.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092562668465074176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpGqPwasAAH0oy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2092562679450013922",
+        "created_at": "2026-08-26T13:29:41.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092605403041591473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047860427107803136",
+              "start": 0,
+              "username": "Loyi0728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092605403041591473",
+        "in_reply_to_user_id": "2047860427107803136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092562679450013922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loyi0728 好可爱！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092562668515364864",
+            "3_2092562668465074176"
+          ]
+        },
+        "author_id": "2047860427107803136",
+        "conversation_id": "2092562679450013922",
+        "created_at": "2026-08-26T10:39:55.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092562679450013922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fut9EEx7pC",
+              "end": 53,
+              "expanded_url": "https://x.com/Loyi0728/status/2092562679450013922/photo/1",
+              "media_key": "3_2092562668515364864",
+              "start": 30,
+              "url": "https://t.co/fut9EEx7pC"
+            },
+            {
+              "display_url": "pic.x.com/fut9EEx7pC",
+              "end": 53,
+              "expanded_url": "https://x.com/Loyi0728/status/2092562679450013922/photo/1",
+              "media_key": "3_2092562668465074176",
+              "start": 30,
+              "url": "https://t.co/fut9EEx7pC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092562679450013922",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092562668515364864"
+          },
+          {
+            "media_key": "3_2092562668465074176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一緒に花火を見ませんか\n\n嘿嘿，又画了ナギ๑&gt;ᴗO๑ https://t.co/fut9EEx7pC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092605403041591473",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 264,
+          "like_count": 2167,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T02:09:24.000Z",
+        "description": "20↑（心理3歳)｜日本語勉強中｜時々翻訳ツール使用\n脳がフリーズしやすい｜入力ソフトと仲が悪い\n一般梦到哪句说哪句｜推し垢@Ayasaki_oshi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Ayasaki_oshi"
+              }
+            ]
+          }
+        },
+        "id": "2047860427107803136",
+        "is_identity_verified": false,
+        "location": "彩和矢さんがいれば一択",
+        "most_recent_tweet_id": "2092604115037958387",
+        "name": "Loyi",
+        "pinned_tweet_id": "2074806875460342136",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080160683824758784/cDtD116l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 126,
+          "like_count": 5952,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "Loyi0728",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

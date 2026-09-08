@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2088950463505064177",
+    "created_at": "2026-08-16T12:17:03.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088963243784233093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2079191991498502144",
+          "start": 0,
+          "username": "Dghjijbcvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088963243784233093",
+    "in_reply_to_user_id": "2079191991498502144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088962549253554349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dghjijbcvh 就是啊😭😭😭她们太坏了😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2088950463505064177",
+        "created_at": "2026-08-16T12:17:03.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088963243784233093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2079191991498502144",
+              "start": 0,
+              "username": "Dghjijbcvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088963243784233093",
+        "in_reply_to_user_id": "2079191991498502144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088962549253554349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dghjijbcvh 就是啊😭😭😭她们太坏了😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079191991498502144",
+        "conversation_id": "2088950463505064177",
+        "created_at": "2026-08-16T12:14:17.000Z",
+        "display_text_range": [
+          14,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088962549253554349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088962549253554349",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088950463505064177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 摸摸宝宝啊为什么要戾气那么重 不喜欢屏蔽就好了为什么还要发帖攻击真的好讨厌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088963243784233093",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 229,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-20T13:10:37.000Z",
+        "description": "",
+        "id": "2079191991498502144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088962549253554349",
+        "name": "小太郎のパンツ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079191991498502144/1786683158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088299224647741440/vH4AvG0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Dghjijbcvh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

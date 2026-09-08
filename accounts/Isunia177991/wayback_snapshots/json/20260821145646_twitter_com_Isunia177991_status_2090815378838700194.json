@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2090798171391967404",
+    "created_at": "2026-08-21T14:56:46.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090815378838700194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983216087937474560",
+          "start": 0,
+          "username": "Xiao43600268523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090815378838700194",
+    "in_reply_to_user_id": "1983216087937474560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090798171391967404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiao43600268523 好萌啊(´▽｀)ノ♪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090798154333802496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQB2AYb0AA3qDP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2090798171391967404",
+        "created_at": "2026-08-21T14:56:46.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090815378838700194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983216087937474560",
+              "start": 0,
+              "username": "Xiao43600268523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090815378838700194",
+        "in_reply_to_user_id": "1983216087937474560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090798171391967404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiao43600268523 好萌啊(´▽｀)ノ♪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090798154333802496"
+          ]
+        },
+        "author_id": "1983216087937474560",
+        "conversation_id": "2090798171391967404",
+        "created_at": "2026-08-21T13:48:23.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090798171391967404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "六条銀"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJt5xHzm0C",
+              "end": 172,
+              "expanded_url": "https://x.com/Xiao43600268523/status/2090798171391967404/photo/1",
+              "media_key": "3_2090798154333802496",
+              "start": 149,
+              "url": "https://t.co/dJt5xHzm0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090798171391967404",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090798154333802496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#六条銀 さんのスタンプを作成いたしました！\n做了銀さん的表情包！\n\n気に入っていただけましたら、ご自由にお使いください🥰🤲🏻\n喜欢的话可以保存使用🥰🤲🏻\n\nコメント欄に単体バージョンを掲載します！\n我会在评论区发单独的图！\n\nよろしければ、いいねやコメントをいただけると嬉しいですo(^▽^)o https://t.co/dJt5xHzm0C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090815378838700194",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 257,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-28T16:55:59.000Z",
+        "description": "千早雨凪24♒️六条銀重度依赖💖\n\n🦮いぬ 名前 土豆（ポテト🥔",
+        "id": "1983216087937474560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090799245309972916",
+        "name": "雨",
+        "pinned_tweet_id": "2059202058461594002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983216087937474560/1786876137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038592563540828160/_ghx1Sym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 89,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "Xiao43600268523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

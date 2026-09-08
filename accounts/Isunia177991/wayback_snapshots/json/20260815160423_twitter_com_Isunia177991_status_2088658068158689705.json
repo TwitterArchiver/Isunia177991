@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2088209158378254706",
+    "created_at": "2026-08-15T16:04:23.000Z",
+    "display_text_range": [
+      10,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088658068158689705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933174275374256128",
+          "start": 0,
+          "username": "Faysname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088658068158689705",
+    "in_reply_to_user_id": "1933174275374256128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088649774631375222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faysname 是的。。我自己都会和自己打起来啊（你这家伙……!）我们大家都幸福的生活着就好了嘛|･ω･｀)我是抱着这样的心情的～(´▽｀)ノ♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2088209158378254706",
+        "created_at": "2026-08-15T16:04:23.000Z",
+        "display_text_range": [
+          10,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088658068158689705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933174275374256128",
+              "start": 0,
+              "username": "Faysname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088658068158689705",
+        "in_reply_to_user_id": "1933174275374256128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088649774631375222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faysname 是的。。我自己都会和自己打起来啊（你这家伙……!）我们大家都幸福的生活着就好了嘛|･ω･｀)我是抱着这样的心情的～(´▽｀)ノ♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933174275374256128",
+        "conversation_id": "2088209158378254706",
+        "created_at": "2026-08-15T15:31:26.000Z",
+        "display_text_range": [
+          14,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088649774631375222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088649774631375222",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088209158378254706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 所以我不想给自己套任何属性因为一直会变…就和本人的xp一样流动且复杂，甚至可能会打架🥲其实我觉得能自洽就好，虚空索敌和吵架除了给自己找不痛快没有任何意义…😢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088658068158689705",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 224,
+          "like_count": 1352,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T14:47:38.000Z",
+        "description": "谢谢你的关注🥰.20⬆️杂食党😋偶尔发些乱七八糟的东西🤲欢迎妹子们找我玩🥺",
+        "id": "1933174275374256128",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2088649774631375222",
+        "name": "Iris",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933174275374256128/1750844102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022516173431279617/JF-HvWnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 98,
+          "like_count": 6321,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "Faysname",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

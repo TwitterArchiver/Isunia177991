@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2087548201482293710",
+    "created_at": "2026-08-12T16:56:29.000Z",
+    "display_text_range": [
+      12,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087584016451154327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771390137882247168",
+          "start": 0,
+          "username": "gin_rokujo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087584016451154327",
+    "in_reply_to_user_id": "1771390137882247168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087548201482293710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gin_rokujo 太好啦(´▽｀)ノ♪感谢通知～后辈哦💕最喜欢的类型啦！实在太可爱了呢！今天的银酱也请注意休息呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2087548201482293710",
+        "created_at": "2026-08-12T16:56:29.000Z",
+        "display_text_range": [
+          12,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087584016451154327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771390137882247168",
+              "start": 0,
+              "username": "gin_rokujo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087584016451154327",
+        "in_reply_to_user_id": "1771390137882247168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087548201482293710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gin_rokujo 太好啦(´▽｀)ノ♪感谢通知～后辈哦💕最喜欢的类型啦！实在太可爱了呢！今天的银酱也请注意休息呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771390137882247168",
+        "conversation_id": "2087548201482293710",
+        "created_at": "2026-08-12T14:34:10.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087548201482293710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lusttrvp/statu…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/lusttrvp/status/2086714282679673204",
+              "start": 98,
+              "url": "https://t.co/N67dp8QMAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548201482293710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5731,
+          "like_count": 170,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086714282679673204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Lust Trap様より予告開始されました‼️\n\n完璧な後輩のはずが、初えっ⚪︎で童貞即バレ！?\n\n百瀬 曜(モモセ ヨウ)君のお声を担当させていただきました‼️\n\nよろしくお願いいたします‼️ https://t.co/N67dp8QMAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087584016451154327",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 209,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-23T04:15:11.000Z",
+        "description": "声のお仕事をさせていただいております。無断転載やスクリーンショットはご遠慮ください。 アイコン制作者様→ @oriyu_sun ボイスサンプル→ https://t.co/x5Zrhb3qVM ※ 第三者による無断著作物利用は禁止いたします。未成年の方の閲覧、フォローはご遠慮ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "oriyu_sun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/pawWa",
+                "end": 96,
+                "expanded_url": "https://x.gd/pawWa",
+                "start": 73,
+                "url": "https://t.co/x5Zrhb3qVM"
+              }
+            ]
+          }
+        },
+        "id": "1771390137882247168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087548201482293710",
+        "name": "六条銀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855463529404567552/4HMjWocU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12624,
+          "following_count": 176,
+          "like_count": 13532,
+          "listed_count": 42,
+          "media_count": 63,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "gin_rokujo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

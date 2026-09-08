@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2089537948853379415",
+    "created_at": "2026-08-18T09:12:45.000Z",
+    "display_text_range": [
+      14,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089641640365531509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665285141676314629",
+          "start": 0,
+          "username": "shizu_kumi14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089641640365531509",
+    "in_reply_to_user_id": "1665285141676314629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089537948853379415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizu_kumi14 一群疯子来的……怎么会有这样的人……究竟是什么群体……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2089537948853379415",
+        "created_at": "2026-08-18T09:12:45.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089641640365531509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665285141676314629",
+              "start": 0,
+              "username": "shizu_kumi14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089641640365531509",
+        "in_reply_to_user_id": "1665285141676314629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089537948853379415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizu_kumi14 一群疯子来的……怎么会有这样的人……究竟是什么群体……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665285141676314629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          }
+        ],
+        "conversation_id": "2089537948853379415",
+        "created_at": "2026-08-18T02:20:43.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089537948853379415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089537948853379415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1348,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感叹一句仅退款的风还是吹来了dlsite"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089641640365531509",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 241,
+          "like_count": 1599,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T09:11:52.000Z",
+        "description": "番茄\n20↑🇨🇳\nサブ垢です \n本垢→@moonwind_umi\n推しは❄️🍼・💰・🌲⭐🌲・🍬・🌾・🍊！雑談や感想を垂れ流すアカウントです。たまにFAも上げます✨相互フォロー大大歓迎✨\n呼び方は何でもOKです！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "moonwind_umi"
+              }
+            ]
+          }
+        },
+        "id": "1665285141676314629",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089638780127133974",
+        "name": "雫み",
+        "pinned_tweet_id": "2071989632590594299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665285141676314629/1780015898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060161091154726912/5ERHp25m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 317,
+          "like_count": 9109,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4096
+        },
+        "url": "",
+        "username": "shizu_kumi14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

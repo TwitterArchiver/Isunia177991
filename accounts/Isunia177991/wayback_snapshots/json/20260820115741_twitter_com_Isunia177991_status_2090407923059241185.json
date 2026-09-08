@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2090206438006362568",
+    "created_at": "2026-08-20T11:57:41.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090407923059241185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819360472761880579",
+          "start": 0,
+          "username": "Daylight_awave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090407923059241185",
+    "in_reply_to_user_id": "1819360472761880579",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090206438006362568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daylight_awave 摸摸摸……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2090206438006362568",
+        "created_at": "2026-08-20T11:57:41.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090407923059241185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819360472761880579",
+              "start": 0,
+              "username": "Daylight_awave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090407923059241185",
+        "in_reply_to_user_id": "1819360472761880579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090206438006362568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daylight_awave 摸摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819360472761880579",
+        "conversation_id": "2090206438006362568",
+        "created_at": "2026-08-19T22:37:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090206438006362568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090206438006362568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑的不行。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090407923059241185",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 256,
+          "like_count": 1866,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T13:12:22.000Z",
+        "description": "19｜日本語は機械翻訳＋勉強中です🙏\n議論の多い内容を見ると不安になります",
+        "id": "1819360472761880579",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090313264895005106",
+        "name": "暁汐",
+        "pinned_tweet_id": "2088985619670421926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819360472761880579/1784349701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339347695259648/OgVJll0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 93,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "Daylight_awave",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

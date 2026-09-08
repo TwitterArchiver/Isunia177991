@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2094019317520331043",
+    "created_at": "2026-08-30T11:22:33.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094022961934319984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699531839109799936",
+          "start": 0,
+          "username": "ee1104_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094022961934319984",
+    "in_reply_to_user_id": "1699531839109799936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094021027181506725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ee1104_ovo 我给那些人跪了……隔三差五就要大闹一场这是什么仪式吗……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094021027181506725].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094021027181506725",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094021027181506725"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2094019317520331043",
+        "created_at": "2026-08-30T11:22:33.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094022961934319984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699531839109799936",
+              "start": 0,
+              "username": "ee1104_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094022961934319984",
+        "in_reply_to_user_id": "1699531839109799936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094021027181506725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ee1104_ovo 我给那些人跪了……隔三差五就要大闹一场这是什么仪式吗……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094022961934319984",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 268,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T21:16:16.000Z",
+        "description": "18↑ 社恐\n\n其實不太會用推特 不活躍\n哀川佳介孝女\n個人愛好沒有自證義務",
+        "id": "1699531839109799936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093733421084557375",
+        "name": "追憶",
+        "pinned_tweet_id": "2089156231634288743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699531839109799936/1786862560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054293563606020096/prWbJnLK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 52,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "ee1104_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
