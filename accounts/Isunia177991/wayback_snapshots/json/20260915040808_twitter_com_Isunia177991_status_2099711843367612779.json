@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2099511530262036986",
+    "created_at": "2026-09-15T04:08:08.000Z",
+    "display_text_range": [
+      15,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099711843367612779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1601389362142277633",
+          "start": 0,
+          "username": "yuki_kirihana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099711843367612779",
+    "in_reply_to_user_id": "1601389362142277633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099652590359449904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_kirihana 我不行了……啊啊啊，我是一直用grok来的 准备去试试gpt!(´▽｀)ノ♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099511530262036986",
+        "created_at": "2026-09-15T04:08:08.000Z",
+        "display_text_range": [
+          15,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099711843367612779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1601389362142277633",
+              "start": 0,
+              "username": "yuki_kirihana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099711843367612779",
+        "in_reply_to_user_id": "1601389362142277633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099652590359449904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_kirihana 我不行了……啊啊啊，我是一直用grok来的 准备去试试gpt!(´▽｀)ノ♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601389362142277633",
+        "conversation_id": "2099511530262036986",
+        "created_at": "2026-09-15T00:12:41.000Z",
+        "display_text_range": [
+          14,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099652590359449904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099652590359449904",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099511530262036986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 我一般都是先豆包一下然后再去让gpt翻译一下看看意思对不对🌚不对的话再把原话丢给gpt让他给我翻译 然后再丢给豆包翻译看看对不对 我不行了🌚…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099711843367612779",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 268,
+          "like_count": 2550,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-10T01:32:40.000Z",
+        "description": "19｜家有萌猪（田猪国）\n三橋渡さん、六条銀さんだいすき♡\n中国語○日本語勉強中\n無言フォロー、いいね失礼します\n翻訳機使用、不自然だったらすみません",
+        "id": "1601389362142277633",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099708238031945860",
+        "name": "Yuki",
+        "pinned_tweet_id": "2049793479908409571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601389362142277633/1767808987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096128419516088320/a8Xd6oMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 169,
+          "like_count": 26738,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 4472
+        },
+        "url": "",
+        "username": "yuki_kirihana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

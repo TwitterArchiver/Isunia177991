@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763450818886606848",
+    "conversation_id": "2099511017097343137",
+    "created_at": "2026-09-14T15:40:26.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T16:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099523677729763448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799468378404593665",
+          "start": 0,
+          "username": "x_lily11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099523677729763448",
+    "in_reply_to_user_id": "1799468378404593665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099523572826054680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_lily11 好呀好呀！！！你也是呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "conversation_id": "2099511017097343137",
+        "created_at": "2026-09-14T15:40:26.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099523677729763448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799468378404593665",
+              "start": 0,
+              "username": "x_lily11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099523677729763448",
+        "in_reply_to_user_id": "1799468378404593665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099523572826054680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_lily11 好呀好呀！！！你也是呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799468378404593665",
+        "conversation_id": "2099511017097343137",
+        "created_at": "2026-09-14T15:40:01.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099523572826054680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099523572826054680",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099511017097343137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 好好休息呀！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099523677729763448",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 267,
+          "like_count": 2535,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-08T15:47:58.000Z",
+        "description": "欣 想怎么称呼都可以｜18 ↑🇨🇳 \n只扩同好｜主页含乙游乙抓和碎碎恋\n日本語ほぼ機械翻訳です\n無言フォロー／いいね失礼します!!!",
+        "id": "1799468378404593665",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099523572826054680",
+        "name": "xlily",
+        "pinned_tweet_id": "2095312710863073496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799468378404593665/1788396596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085785162395361280/0hyMgazU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "x_lily11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
